@@ -2,10 +2,23 @@ import {Injectable} from '@angular/core';
 import {BehaviorSubject} from 'rxjs';
 import {Issue} from '../models/issue';
 import {HttpClient, HttpErrorResponse} from '@angular/common/http';
+import {HttpClient, HttpErrorResponse, HttpHeaders } from '@angular/common/http';
 
 @Injectable()
 export class DataService {
-  private readonly API_URL = 'https://api.github.com/repos/angular/angular/issues';
+//  private readonly API_URL = 'https://api.github.com/repos/angular/angular/issues';
+
+  private readonly API_URL =
+      'https://api.airtable.com/v0/app0hohtq4b1nM0Kb/Scores?api_key=key66fQg5IghIIQmb';
+    
+   httpOptions = {
+     headers: new HttpHeaders({
+       'Content-Type': 'application/json',
+       'api_key': 'key66fQg5IghIIQmb'  
+      // 'x-apikey': '5821f61550e9b39131fe1b6f'  
+       // 569a2b87566759cf4b984a50'  // 5821f61550e9b39131fe1b6f
+     })
+   }
 
   dataChange: BehaviorSubject<Issue[]> = new BehaviorSubject<Issue[]>([]);
   // Temporarily stores data from dialogs
