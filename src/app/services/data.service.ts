@@ -6,18 +6,7 @@ import {HttpClient, HttpErrorResponse, HttpHeaders } from '@angular/common/http'
 @Injectable()
 export class DataService {
   private readonly API_URL = 'https://api.github.com/repos/angular/angular/issues';
-
-//  private readonly API_URL = 'https://api.airtable.com/v0/app0hohtq4b1nM0Kb/Students?api_key=key66fQg5IghIIQmb';
     
-   httpOptions = {
-     headers: new HttpHeaders({
-       'Content-Type': 'application/json',
-       'api_key': 'key66fQg5IghIIQmb'  
-      // 'x-apikey': '5821f61550e9b39131fe1b6f'  
-       // 569a2b87566759cf4b984a50'  // 5821f61550e9b39131fe1b6f
-     })
-   }
-
   dataChange: BehaviorSubject<Issue[]> = new BehaviorSubject<Issue[]>([]);
   // Temporarily stores data from dialogs
   dialogData: any;
@@ -32,9 +21,29 @@ export class DataService {
     return this.dialogData;
   }
 
-  /** CRUD METHODS */
+  /** CRUD METHODS
+   * 
+   * const headers = new HttpHeaders()
+            .set("X-CustomHeader", "custom header value");
+
+this.courses$ = this.http
+    .get(
+        "/courses.json",
+        {headers})
+   * 
+   */
   getAllIssues(): void {
-    this.httpClient.get<Issue[]>(this.API_URL).subscribe(data => {
+ const API_URL2 = 'https://api.airtable.com/v0/app0hohtq4b1nM0Kb/Students?api_key=key66fQg5IghIIQmb';
+const httpOptions = {
+      headers: new HttpHeaders({
+        'Content-Type': 'application/json',
+        'api_key': 'key66fQg5IghIIQmb'  
+       // 'x-apikey': '5821f61550e9b39131fe1b6f'  
+        // 569a2b87566759cf4b984a50'  // 5821f61550e9b39131fe1b6f
+      })
+    }
+
+    this.httpClient.get<Issue[]>(this.API_URL, httpOptions).subscribe(data => {
         this.dataChange.next(data);
       },
       (error: HttpErrorResponse) => {
