@@ -42,13 +42,13 @@ this.courses$ = this.http
       headers: new HttpHeaders({
         'Content-Type': 'application/json',
         'Authorization': 'Bearer patgbCJgQnURgkXpI.f72c7c10a614e68e2ba92c6e7a437e64312719fe9ad7f7c38b05164dfe445a32'  
+      })
       //  'api_key': 'key66fQg5IghIIQmb'  
        // 'x-apikey': '5821f61550e9b39131fe1b6f'  
         // 569a2b87566759cf4b984a50'  // 5821f61550e9b39131fe1b6f
-      })
     }
 
-    this.httpClient.get<Issue[]>(this.API_URL, httpOptions).subscribe(data => {
+    this.httpClient.get<Issue[]>(this.API_URL2, httpOptions).subscribe(data => {
         this.dataChange.next(data);
       },
       (error: HttpErrorResponse) => {
