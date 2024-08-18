@@ -33,11 +33,13 @@ this.courses$ = this.http
    * 
    */
   getAllIssues(): void {
- const API_URL2 = 'https://api.airtable.com/v0/app0hohtq4b1nM0Kb/Students?api_key=key66fQg5IghIIQmb';
-const httpOptions = {
+    // const API_URL2 = 'https://api.airtable.com/v0/app0hohtq4b1nM0Kb/Issues' 
+    const API_URL2 = 'https://airtable.com/app0hohtq4b1nM0Kb/tbleP0LrB6Hf9ysFS';
+    const httpOptions = {
       headers: new HttpHeaders({
         'Content-Type': 'application/json',
-        'api_key': 'key66fQg5IghIIQmb'  
+        'Authentication': 'Bearer patgbCJgQnURgkXpI.f72c7c10a614e68e2ba92c6e7a437e64312719fe9ad7f7c38b05164dfe445a32'  
+      //  'api_key': 'key66fQg5IghIIQmb'  
        // 'x-apikey': '5821f61550e9b39131fe1b6f'  
         // 569a2b87566759cf4b984a50'  // 5821f61550e9b39131fe1b6f
       })
