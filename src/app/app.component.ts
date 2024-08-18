@@ -148,7 +148,6 @@ export class ExampleDataSource extends DataSource<Issue> {
 
     this._exampleDatabase.getAllIssues();
 
-
     return merge(...displayDataChanges).pipe(map( () => {
         // Filter data
         this.filteredData = this._exampleDatabase.data.slice().filter((issue: Issue) => {
