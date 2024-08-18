@@ -52,8 +52,8 @@ this.courses$ = this.http
         this.dataChange.next(data);
       },
       (error: HttpErrorResponse) => {
-      console.log (error.name + ' ' + error.message);
-      });
+      console.log (error.name + ' ' + error.message);  }
+      );
   }
 
   // DEMO ONLY, you can find working methods below
