@@ -21,34 +21,16 @@ export class DataService {
     return this.dialogData;
   }
 
-  /** CRUD METHODS
-   * 
-   * const headers = new HttpHeaders()
-            .set("X-CustomHeader", "custom header value");
-
-this.courses$ = this.http
-    .get(
-        "/courses.json",
-        {headers})
-   * 
-
-        curl "https://api.airtable.com/v0/app0hohtq4b1nM0Kb/AFToscano?maxRecords=3&view=Main%20View" \
-  -H "Authorization: Bearer YOUR_SECRET_API_TOKEN"
-   */
   getAllIssues(): void {
-    // const API_URL2 = 'https://api.airtable.com/v0/app0hohtq4b1nM0Kb/Issues' 
     const API_URL2 = 'https://airtable.com/app0hohtq4b1nM0Kb/Issues';
     const httpOptions = {
       headers: new HttpHeaders({
         'Content-Type': 'application/json',
         'Authorization': 'Bearer patgbCJgQnURgkXpI.f72c7c10a614e68e2ba92c6e7a437e64312719fe9ad7f7c38b05164dfe445a32'  
       })
-      //  'api_key': 'key66fQg5IghIIQmb'  
-       // 'x-apikey': '5821f61550e9b39131fe1b6f'  
-        // 569a2b87566759cf4b984a50'  // 5821f61550e9b39131fe1b6f
     }
 
-    this.httpClient.get<Issue[]>(this.API_URL2, httpOptions).subscribe(data => {
+    this.httpClient.get<Issue[]>(API_URL2, httpOptions).subscribe(data => {
         this.dataChange.next(data);
       },
       (error: HttpErrorResponse) => {
