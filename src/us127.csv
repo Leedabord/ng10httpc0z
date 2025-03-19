@@ -1,0 +1,300 @@
+ID	US ID	Process Flow	RFP/NEW	Priority	Epic 	New Epic	Feature	Story	Efforts 
+"Req_1006
+PP_024"	Req_1006_001	T1 Inbound	New	Priority 2	Case Management - Manage Cases	Case Management	Increased Agent Productivity	Distinguish Mediation case when denoted by RT	3
+"Req_1111
+PP_005"	Req_1111_006	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Case Management	Customer contact  360 View	Standardize abbreviations for US and Mexico states	3
+"Req_002
+PP_023"	Req_002_001	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Case Management - Manage Contacts	Consistent Customer data	Create a New Contact in Salesforce CRRS	5
+"Req_002
+"	Req_002_001	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Case Management - Manage Contacts	Consistent Customer data	Create a New Contact in Salesforce CRRS	5
+"Req_1001
+PP_011"	Req_1001_001	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Agent Functions via Email Application	Increased Agent Productivity	In-System Draft Email Review Process	5
+"Req_002
+PP_010"	Req_002_002	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Case Management - Manage Contacts	Increased Agent Productivity	Auto-Populate Fields for Common Issue Types like 'Radio Code'	8
+"Req_002
+PP_011_A"	Req_002_003	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Case Management - Manage Contacts	Increased Agent Productivity	Enhance Email Professionalism Using SFDC Native AI	5
+"Req_002
+PP_011_B
+QE_004"	Req_002_004	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Case Management - Manage Contacts	Increased Agent Productivity	Automated Incrementing of Document/Note Number for Agent Credit	2
+Req_002	Req_002_005	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Case Management - Manage Contacts	Contact Management	Create a customer record in CRRS	2
+Req_002	Req_002_006	T1 Inbound	New	Priority 1	Case Management - Manage Contacts	Case Management - Manage Contacts	Contact Management	Search customer record in CRRS	2
+"Req_1007
+PP_001"	Req_1007_001	T1 Inbound	New	Priority 1	Service Cloud Console / Page Layouts	Case Management	Case management	Automate Issue Coding to Reduce Generic Case Reasons	13
+"Req_1005
+PP_019"	Req_1005_001	T1 Inbound	New	Priority 1	Service Cloud Console / Page Layouts	Case Management	Increased Agent Productivity	Subdivision field should be automatically updated when ownership is transferred to other department	8
+"Req_1014
+PP_028"	Req_1014_001	T1 Inbound Mexico	New	Priority 2	Data Integration	Data Integration	Recall Campaign Process	Streamline Recall Campaign Processes Through Real-time Integration with eVRM and Other Applications	13
+"Req_1011
+PP_025"	Req_1011_001	T1 Inbound Mexico	New	Priority 1	Data Integration	Data integration	Increased Agent Productivity	Integrate eVRM campaign information with CRRS	8
+"Req_1018
+PP_035"	Req_1018_001	T1 Inbound Mexico	New	Priority 1	Case Management - Automation	Case Management	Increased Agent Productivity	Enhance Techline Case Management with CPA (Claim Prior Authorization) Number and Reason Code Integration	3
+"Req_1020
+PP_038"	Req_1020_001	T1 Inbound Mexico	New	Priority 1	Case Management - Automation	Data integration	Increased Agent Productivity	Streamline Dealer Support by Integrating SIS Labor Operation Codes into Techline Processes	21
+"Req_1019
+PP_036"	Req_1019_001	T1 Inbound Mexico	New	Priority 1	Case Management - Automation	Case Management	Increased Agent Productivity	Enabling Cross-referencing of CPA number to the Cases.	5
+"Req_1172
+PP_024_B"	Req_1172_001	T1 Inbound Mexico	New	Priority 1	Case Management - Automation	Case Management - Automation	Increased Agent Productivity	Enforce Issue Creation with Specific Coding Before Case Closure in Mexico	8
+"Req_1021
+PP_037"	Req_1021_001	T1 Inbound Mexico	New	Priority 2	Case Management - Process	Case Management	Increased Agent Productivity	Enable Agents to capture the root cause for given case	5
+"Req_1016
+PP_032"	Req_1016_001	T1 Inbound Mexico	New	Priority 1	Call and Channel Support	Case Management	Increased Agent Productivity	Enhance the repair data	2
+"Req_1013
+PP_027"	Req_1013_001	T1 Inbound Mexico	New	Priority 2	Case Management - Search	Data Integration	Increased Agent Productivity	Recall information access to Dealers	5
+"Req_1017
+PP_033"	Req_1017_001	T1 Inbound Mexico	New	Priority 1	Administration	Language Translation	Increased Agent Productivity	Enable system-driven English-Spanish Translation and Language preference selection	5
+"Req_1012
+PP_026"	Req_1012_001	T1 Inbound Mexico	New	Priority 2	Case Management - Manage Cases	Case Management	Increased Agent Productivity	Enable Case history and access to US recall issues for a given VIN to Mexico team	2
+"Req_1118
+PP_120"	Req_1118_001	T1/T2 Routing	New	Priority 2	Case Management	Case Management - Automation		Re-open case when email to case is received	8
+"Req_1089
+PP_121"	Req_1089_001	T1/T2 Routing	New	Priority 1	Case Management	Case Management - Automation		Automate Case assignment using queues	5
+"Req_1116
+PP_123"	Req_1116_001	T1/T2 Routing	New	Priority 2	Case Management	Case Management - Automation		Auto assignment of Re-opened case to the case manager	8
+"Req_1005
+PP_019
+Req_1117
+PP_124"	"Req_1005_001
+Req_1117_001"	T1/T2 Routing	New	Priority 1	Case Management	Case Management		Subdivision field should be automatically updated when ownership is transferred to other department	13
+"Req_1115
+PP_122"	Req_1115_001	T1/T2 Routing	New	Priority 1	Case Management- Search	Duplicate Management		Merge Duplicate cases once case received through email	13
+"Req_1024
+PP_053
+PP_054"	Req_1024_001	T1 Inbound Powersports	New	Priority 1	Case Management - Automation	Data Integration		Enhancing Dealer Lookup Functionality within CRRS for Efficient Customer Support	13
+"Req_1031
+Req_033(T1 Inbound)"	Req_1031_001	T1 Inbound Powersports	New	Priority 1	Case Management - Automation	Agent Console Call Flow		Creation of Call Flow Templates for Specific Power Sports Case Types	8
+"Req_1022
+PP_052
+"	Req_1022_001	T1 Inbound Powersports	New	Priority 1	Case Management - Automation	Case Management - Automation		Alerts for the all currently open and previously closed cases (mediation, Techline issues.  	5
+"Req_1027
+PP_046
+Req_081(T1 Inbound. "	Req_1027_001	T1 Inbound Powersports	New	Priority 1	Customer Self-service	Search Functionality		Serial number lookup functionality for cases	5
+"Req_1032
+Req_023(T1 Inbound. 
+Req_022(T1 Inbound. 
+PP_048"	Req_1032_001	T1 Inbound Powersports	New	Priority 1	Data Integration	Data Integration		Enhanced Display and Access to Campaign and Warranty Information	5
+"Req_1028
+PP_047
+Req_005(T1 Inbound. "	Req_1028_001	T1 Inbound Powersports	New	Priority 1	Service Cloud Console / Page Layouts	Data Integration		Selling year of the product to be shown 	3
+"Req_1023
+PP_050"	Req_1023_001	T1 Inbound Powersports	New	Priority 1	Service Cloud Console / Page Layouts	Case Management		Granular picklist values for PSP division	5
+"Req_1029
+PP_051
+Req_020(Inbound Mexico. "	Req_1029_001	T1 Inbound Powersports	New	Priority 1	Service Cloud Console / Page Layouts	Case Management		Auto populate new models in the picklist	2
+"Req_1025
+PP_058"	Req_1025_001	T1 Inbound Powersports	New	Priority 2	Service Cloud Console / Page Layouts	Agent Console Call Flow		In-App Guidance/Alert screen flow 	5
+"Req_1105
+PP_093_A"	Req_1105_001	T2 ASK Dave	New	Priority 2	Case Management - Manage Contacts	Data integration		Integration Continuity for AHM Call Center Request	5
+"Req_1124
+PP_064"	Req_1124_001	T2 DCR-Live Chat	New	Priority 2	Case Management - Automation	Case Management		Auto-save case notes when system has shut down 	8
+"Req_1129
+PP_069_B"	Req_1129_001	T2 DCR-Live Chat	New	Priority 1	Case Management - Manage Cases	Case Management		Case link to be provided to Customer	3
+"Req_1136
+PP_073_A
+
+"	Req_1136_001	T2 DCR-Live Chat	New	Priority 2	Customer Self-service 	Customer Self-service		Initial Screening with Self service tool	5
+"Req_1137
+PP_073_B
+"	Req_1137_001	T2 DCR-Live Chat	New	Priority 2	Knowlege Article	Einstein GenAI		Einsten - Generate KB articles	3
+"Req_1128
+PP_069_A
+Req_049"	Req_1128_001	T2 DCR-Live Chat	New	Priority 1	Live Agent Chat	Case Management		Request to Customer for Sending/Receiving pictures  	5
+"Req_1135
+PP_073"	Req_1135_001	T2 DCR-Live Chat	New	Priority 1	Live Agent Chat	Case Management		Auto save Chat session	5
+"Req_1126
+PP_067
+PP_068"	Req_1126_001	T2 DCR-Live Chat	New	Priority 1	Product Support	Data Integration		Display the list of products owned by Owner	1
+"Req_1147
+PP_213"	Req_1147_001	T2 Powersports	New	Priority 2	Case management	Data Integration		Display Training completed by dealer status on case 	21
+"Req_1148
+PP_214"	Req_1148_001	T2 Powersports	New	Priority 2	Case management	Data Integration		Display Dealer premium level (L1 to L5) on case 	5
+"Req_1153
+PP_219"	Req_1153_001	T2 Powersports	New	Priority 2	Case management	Case Management		Notification/Flag for Urgent cases	5
+"Req_1155
+PP_221"	Req_1155_001	T2 Powersports	New	Priority 2	Case management	Case Management		Status on case summary page	1
+"Req_1157
+PP_223"	Req_1157_001	T2 Powersports	New	Priority 2	Automatic Case Routing and Tracking	Case Assignment		Default queue assignment to Case  	3
+"Req_1160
+PP_226"	Req_1160_001	T2 Powersports	New	Priority 2	Case Management	Agent Functions via Email Application		Display images on email along with in-line text 	13
+"Req_1154
+PP_220"	Req_1154_001	T2 Powersports	New	Priority 2	Case Management - Call Wrap-up	Case Management		Case notes field to be mandate	3
+"Req_1156
+PP_222"	Req_1156_001	T2 Powersports	New	Priority 2	"Case Management - Manage Cases
+
+
+
+
+
+
+
+
+
+"	Case Management		Update 'Customer/Dealer temperature'	3
+"Req_1152
+PP_218"	Req_1152_001	T2 Powersports	New	Priority 2	Case Management - Process	Case Management		Allow all  Warranty claims in Chatter feed	8
+"Req_1143
+PP_209"	Req_1143_001	T2 Powersports	New	Priority 2	Case Management - Search	Case Management		Marine divisions to be added	3
+"Req_1149
+PP_215"	Req_1149_001	T2 Powersports	New	Priority 2	Customer Self-service 	Data Integration		Display Product Section of the case	5
+"Req_1140
+PP_206"	Req_1140_001	T2 Powersports	New	Priority 2	Data Integration	Data Integration		USPS Integration for address verification	0
+"Req_1141
+PP_207"	Req_1141_001	T2 Powersports	New	Priority 2	Data Integration	Data Integration		Warranty and Campaign data with link for related service bulletins	5
+"Req_1142
+PP_208"	Req_1142_001	T2 Powersports	New	Priority 2	Data Integration	Data Integration		Mainframe Integration with CRRS	5
+"Req_1145
+PP_211"	Req_1145_001	T2 Powersports	New	Priority 2	Service Cloud Console / Page Layouts	Agent Console Call Flow		Screen flow for case creation	0
+"Req_1146
+PP_212"	Req_1146_001	T2 Powersports	New	Priority 2	Service Cloud Console / Page Layouts	Case Management		Issue codes to be Auto-Centric	0
+"Req_1159
+PP_225"	Req_1159_001	T2 Powersports	New	Priority 2	Service Cloud Console / Page Layouts	Case Management		Display Cases in reverse chronological order	2
+"Req_1107
+PP_128"	Req_1107_001	T2 Case Mgmt reimbursements	New	Priority 2	Case management	Case Management - Automation		Automate Payment Notification Email to Customer	13
+"Req_1105
+PP_126"	Req_1105_001	T2 Case Mgmt reimbursements	New	Priority 2	Case Management - Automation	Data integration		Simplify Claim Approval Process for Approver	13
+"Req_1106
+PP_127"	Req_1106_001	T2 Case Mgmt reimbursements	New	Priority 2	Case Management - Automation	Case Management - Automation		Automate Claim Closure Upon Payment Data Receipt	13
+"Req_1108
+PP_129"	Req_1108_001	T2 Case Mgmt reimbursements	New	Priority 2	Customer Self-service 	Customer Self-service 		Enable Claim Submission via Customer Portal	8
+"Req_1109
+PP_130"	Req_1109_001	T2 Case Mgmt reimbursements	New	Priority 2	Customer Self-service 	Customer Self-service 		Provide Claim Status Visibility on Customer Portal	8
+"Req_1074
+PP_163"	Req_1074_001	T2 Critical Backorders	New	Priority 2	Case management	Data Integration		Backorder Follow-Up Tracking for Honda Dealers	13
+"Req_1075
+PP_164"	Req_1075_001	T2 Critical Backorders	New	Priority 1	Case management	Case Management - Automation		Case Lifecycle/Timeline Dashboard	13
+"Req_1072
+PP_160
+PP_161"	Req_1072_001	T2 Critical Backorders	New	Priority 1	Case Management - Automation	Agent Console Call Flow		Automated Case Verification for Part Validation	13
+"Req_1073
+PP_162"	Req_1073_001	T2 Critical Backorders	New	Priority 2	Case Management - Automation	Data Integration		"Automated Backorder Release Update
+"	13
+"Req_1069
+PP_157"	Req_1069_001	T2 Critical Backorders	New	Priority 1	Case Management - Process	Search Functionality		Probing Questions Optimization	21
+Req_006	Req_006_001	T2 Critical Backorders	New	Priority 2	Case Management - Search	Case Management		"Automated Service Bulletin Search Based on Make/Model in CRRS
+"	8
+"Req_1070
+PP_158"	Req_1070_001	T2 Critical Backorders	New	Priority 1	Case Management - Search	Agent Console Call Flow		Dealer Name Auto-Suggestion	13
+"Req_1071
+PP_159"	Req_1071_001	T2 Critical Backorders	New	Priority 1	Case Management - Search	Search Functionality		Dealer Name Auto-Population in Probing Questions	13
+Req_1036PP_168	Req_1036_001	T2 Mediation	New	Priority 2	Case management	Case Management - Automation		Automate Email Drafting for Case Notifications and Input Requests	3
+"Req_1037
+PP_169"	Req_1037_001	T2 Mediation	New	Priority 2	Case management	Case Management - Automation		Auto-Populate Email Recipients for DPSM & Honda Field Staff	8
+"Req_1038
+PP_171"	Req_1038_001	T2 Mediation	New	Priority 2	Case Management - Automation	Mediation Tool Automation		Automate Manufacturer Response Form (MRF) Generation	13
+"Req_1040
+PP_175"	Req_1040_001	T2 Mediation	New	Priority 2	Service Cloud Console / Page Layouts	Case Management - Automation		Visual Indication for 'Save' Button Press in Flash Message	5
+"Req_1048
+PP_179"	Req_1048_001	T2 Mediation Check Request	New	Priority 2	Automatic Case Routing and Tracking	Case Assignment		Manual Case Assignment by Supervisor	13
+"Req_1049
+PP_181"	Req_1049_001	T2 Mediation Check Request	New	Priority 2	Case Management - Automation	Search Functionality		Default Dealer Lookup to 'All Fields'	8
+"Req_1050
+PP_182"	Req_1050_001	T2 Mediation Check Request	New	Priority 2	Case Management - Automation	Vehicle Console		Automate Dealer and Vehicle Details Population	13
+"Req_1054
+PP_186"	Req_1054_001	T2 Mediation Check Request	New	Priority 2	Case Management - Automation	Mediation Tool Automation		Automate Document Header Population for Direct Replacement	8
+"Req_1055
+PP_187"	Req_1055_001	T2 Mediation Check Request	New	Priority 2	Case Management - Automation	Mediation Tool Automation		Combine Replacement Worksheet and Direct Replacement Instructions	21
+"Req_1056
+PP_188"	Req_1056_001	T2 Mediation Check Request	New	Priority 2	Case Management - Automation	Mediation Tool Automation		"Automate Settlement Workbook Population for Non-Buyback Mediation
+"	13
+"Req_1057
+PP_189"	Req_1057_001	T2 Mediation Check Request	New	Priority 2	Case Management - Automation	Mediation Tool Automation		Automate Mediation Expense Capture	13
+"Req_1058
+PP_190"	Req_1058_001	T2 Mediation Check Request	New	Priority 2	Case Management - Manage Cases	Mediation Tool Automation		Vehicle Inventory Tracking for Buyback Vehicles	13
+"Req_1053
+PP_185"	Req_1053_001	T2 Mediation Check Request	New	Priority 2	Case Management - Process	Mediation Tool Automation		Streamline Check Request Review Process	8
+"Req_1051
+PP_183"	Req_1051_001	T2 Mediation Check Request	New	Priority 2	Service Cloud Console / Page Layouts	Data Integration		Ability for Specialists to Access External Websites via Links in CRRS	8
+"Req_1052
+PP_184"	Req_1052_001	T2 Mediation Check Request	New	Priority 2	Service Cloud Console / Page Layouts	Mediation Tool Automation		Automate Workbook Data Population for Check Requests	13
+"Req_1042
+PP_200"	Req_1042_001	L1 Mediation	New	Priority 1	Automatic Case Routing and Tracking	Mediation Tool Automation		Automate Case Routing from T1 Inbound to L1 Mediation Queue Based on Probing Questions (PQ)	13
+"Req_1043
+PP_201"	Req_1043_001	L1 Mediation	New	Priority 1	Automatic Case Routing and Tracking	Case Management		Enable AHM Mediation Business Admin to Assign Cases from L1 Mediation Queue	13
+"Req_1044
+PP_202"	Req_1044_001	L1 Mediation	New	Priority 2	Case Management - Automation	Mediation Tool Automation		Automate L1 Assessment  Creation with a Pre-Populated Template	8
+"Req_1045
+PP_203"	Req_1045_001	L1 Mediation	New	Priority 2		Mediation Tool Automation		Automate Supervisor Review Process for L1 Assessments	8
+"Req_1047
+PP_205"	Req_1047_001	L1 Mediation	New	Priority 1	Case Management - cases	Case Management - Automation		Enhance Identification and Prioritization of Time-Sensitive L1 Mediation Cases	13
+"Req_1046
+PP_204"	Req_1046_001	L1 Mediation	New	Priority 1	Case Management - Process	Case Management		Enhance Case Notes to Display Probing Question Descriptions	21
+"Req_1104
+PP_092"	Req_1104_001	PCRM inbound SMS	New	Priority 1	Case Management - Automation	Chat Management - Automation		Streamline Issue Disposition Process in Salesforce Lightning	3
+"Req_1100
+PP_087"	Req_1100_001	PCRM inbound SMS	New	Priority 2	Social Customer Service	Chat Management - Automation		Automate chat Closure Based on Pre-set Quiet Time	3
+"Req_1101
+PP_088"	Req_1101_001	PCRM inbound SMS	New	Priority 2	Social Customer Service	Chat Management - Automation		Automated Agent Alert for Missed Appointments	5
+"Req_1102
+PP_090"	Req_1102_001	PCRM inbound SMS	New	Priority 1	Social Customer Service	Chat Management		Unified Contact and Chat Management in Salesforce AutoCloud	5
+"Req_1077
+PP_132"	Req_1077_001	T2 Godwill process	New	Priority 1	Case management	Goodwill Claim Tool Automation		Automate Goodwill Claim Evaluation Process with Pre-Populated Data and Calculation Tool in CRRS	8
+"Req_1078
+PP_133"	Req_1078_001	T2 Godwill process	New	Priority 2	Case management	Goodwill Claim Tool Automation		Automate Goodwill Claim Evaluation and Provide Loyalty Score displayed  in CRRS	3
+"Req_1082
+PP_137"	Req_1082_001	T2 Godwill process	New	Priority 2	Administration	Data Integration		Automate Ingestion of AHM Field Directory into CRRS to Eliminate Manual Updates	13
+"Req_1079
+PP_134"	Req_1079_001	T2 Godwill process	New	Priority 1	Case Management	Agent Functions via Email application		Integrate Email Communication in CRRS to Track Dealer Communications Regarding RO or Warranty Pricing	5
+"Req_1083
+PP_138"	Req_1083_001	T2 Godwill process	New	Priority 1	Case Management	Agent Functions via Email application		Integrate Email Communication in CRRS for Goodwill Claim Authorization	2
+"Req_1080
+PP_135"	Req_1080_001	T2 Godwill process	New	Priority 2	Data Integration	Data Integration		Integrate Warranty Pricing Information into CRRS to Streamline Communication and Reduce Delays	21
+"Req_1081
+PP_136"	Req_1081_001	T2 Godwill process	New	Priority 2	Data Integration	Data Integration		Integrate Dealer and Service Manager Information into CRRS from CICS and Other Systems	21
+"Req_1163
+PP_150_A
+
+"	Req_1163_001	T2Claims	New	Priority 1	Administration	Reimbursement Tool - Automation		Update Approval Process for Claims 	5
+"Req_1164
+PP_151"	Req_1164_001	T2Claims	New	Priority 1	Case Management	Case Management		Update Fields as Read Only on Case	2
+"Req_1161
+PP_149"	Req_1161_001	T2Claims	New	Priority 2	Case Management - Automation	Case Management - Automation		Email to case functionality- for Claims email from customer	13
+"Req_1162
+PP_150"	Req_1162_001	T2Claims	New	Priority 1	Case Management- Automation	Reimbursement Tool - Automation		Auto update the Check request field from case	5
+"Req_1168
+PP_155"	Req_1168_001	T2Claims	New	Priority 2	Customer Self-Service	Customer Self-Service		Submission of Online claims with required documents	5
+"Req_1165
+PP_152"	Req_1165_001	T2Claims	New	Priority 1	Data Integration	Reimbursement Tool - Automation		Auto fill the Assessment information (case summary) and CheckReq summary into  Case Notes 	5
+"Req_1084
+PP_140"	Req_1084_001	T2 in car Technology	New	Priority 1	Case Management - Automation	Agent Console Call Flow		Reduce Note-Capturing Time with Quick Links for High-Volume Case Types	5
+"Req_1085
+PP_141"	Req_1085_001	T2 in car Technology	New	Priority 1	Case Management - Automation	Data Integration		Display TCU Version on Vehicle Information Page and Case Queue	21
+"Req_1086
+PP_146"	Req_1086_001	T2 in car Technology	New	Priority 2	Case Management - Automation	Data Integration		Automate VIN Pre-Population from CRRS to CCS Portal	5
+"Req_1087
+PP_147"	Req_1087_001	T2 in car Technology	New	Priority 2	                            ---	Agent Console Call Flow		Enable CRRS to Perform CCS Portal Actions	34
+"Req_1173
+PP_077"	Req_1173_001	T2 Import-Export	New	Priority 1	Case Management	Case Management - Automation		Automate Generation of Recall Clearance and Compliance Letters for Vehicle Import/Export	8
+"Req_1090
+PP_079"	Req_1090_001	T2 Import-Export	New	Priority 2	Case Management	Language Translation		Integrate In-System Translation for Handling Non-English Documents in CRRS	21
+"Req_1091
+PP_080"	Req_1091_001	T2 Import-Export	New	Priority 1	Case Management	Agent Functions via Email Application		Automate Email Response Handling in CRRS for T2 Import/Export Cases	8
+"Req_1092
+PP_081"	Req_1092_001	T2 Import-Export	New	Priority 2	Case Management	Case Management - Automation		Implement Country-Specific Template Display and Alerts in CRRS for T2 Import/Export Cases	3
+"Req_1093
+PP_082"	Req_1093_001	T2 Import-Export	New	Priority 2	Case Management	Case Management - Automation		Implement Role-Based Template Access in CRRS for T2 Import/Export Cases	3
+"Req_1094
+PP_083"	Req_1094_001	T2 Import-Export	New	Priority 1	Case Management	Duplicate Management 		Streamline Case Management for New Contacts with Recall Questions Linked to Existing VINs	3
+"Req_1096
+PP_085"	Req_1096_001	T2 Import-Export	New	Priority 2	Case Management	Data Integration		Implement Automated Currency Exchange Rate Retrieval in CRRS	13
+"Req_1099
+PP_078"	Req_1099_001	T2 Import-Export	New	Priority 1	Case Management	Agent Functions via Email Application		Email functionality-  Recall Clearance and Compliance letters 	1
+"Req_1064
+PP_101"	Req_1064_001	Knowledge & Training	New	Priority 1	Case Management - Automation	Agent Console Call Flow		Customized Screen Flows for Specific Call Types	8
+"Req_1060
+PP_095"	Req_1060_001	Knowledge & Training	New	Priority 1	Knowledge Management	Search Functionality		Improved search Knowledge Artcles with Einstein Gen AI	34
+"Req_1067
+PP_110"	Req_1067_001	Knowledge & Training	New	Priority 2	Knowledge Management	Knowledge Article Management		"Enable Contact Center Agents to Propose Knowledge Articles Based on Case Trends
+"	0
+"Req_1063
+PP_099"	Req_1063_001	Knowledge & Training	New	Priority 1	Knowledge Management	Knowledge Article Management		"Enable Video Attachments in KA Authoring
+"	2
+"Req_1068
+PP_103"	Req_1068_001	Knowledge & Training	New	Priority 1	Knowledge Management	Knowledge Article Management		"Removal of Character Limit for KA Authoring
+"	2
+"Req_1065
+PP_108"	Req_1065_001	Knowledge & Training	New	Priority 1	Knowledge Management	Agent Functions via Email Application		"Enable Contact Center Agents to Email Public-Facing KA Links via CRRS
+"	8
+"Req_1066
+PP_109"	Req_1066_001	Knowledge & Training	New	Priority 2	Knowledge Management	Data Integration		"Automate Sending Updated Articles to MyGarage Team
+"	21
+"Req_1171
+PP_114"	Req_1171_001	Knowledge & Training	New	Priority 1	Knowledge Management	Knowledge Article Management		Pin favourite articles in CRRS	3
