@@ -1,0 +1,727 @@
+ID,US ID,Process Flow,RFP/NEW,Priority,Epic ,New Epic,Feature,Story,Efforts ,Efforts in person-days - Final,Sprint #,JIRA ID,,,,,,,,,,Don't Delete,Don't Delete,Efforts ,New Epics
+Req_092,Req_092_001,T1 Inbound,RFP,Priority 3,Case management,Data integration,Case management,Customer's Loyalty score should be visible to Agent,21,,,PR09918-184,PR09918-184,,,,,,,,,Req_092,Req_092,21,Data integration
+Req_030,Req_030_001,T1 Inbound,RFP,Priority 1,Automatic Case Routing and Tracking,Case Assignment,Automatic Case Routing and Tracking,Auto route the case to the previous agent,5,,Sprint 1,PR09918-60,PR09918-60,,,,,,,,,Req_030,Req_030,5,Case Assignment
+"Req_1010
+PP_059
+PP_015
+Req_113(T2 - Critical Backorder)",Req_113_001,"T1 Inbound
+T2 - Critical Backorder",RFP,Priority 1,Case Management,Case Management,Increased Agent Productivity,Creation of Standard Email Templates for Select High-Value Case Types,3,3,,PR09918-176,#N/A,,,,,,,,,Req_113,Req_113,3,Case Management
+Req_007,Req_007_001,T1 Inbound,RFP,Priority 1,Case Management,Quick case,Case management,Create a quick case in CRRS without customer/vechicle information,3,3,Sprint 1,PR09918-174,PR09918-174,,,,,,,,,Req_007,Req_007,3,Quick case
+Req_013,Req_013_001,T1 Inbound,RFP,Priority 1,Case Management,Case Management,Case management,Create a case in CRRS using different case types,5,5,,PR09918-65,PR09918-65,,,,,,,,,Req_013,Req_013,5,Case Management
+Req_021,Req_021_001,T1 Inbound,RFP,Priority 1,Case Management,Case Management,Case management,Edit/modify a case in CRRS,3,3,,PR09918-64,PR09918-64,,,,,,,,,Req_021,Req_021,3,Case Management
+Req_044,Req_044_001,T1 Inbound,RFP,Priority 1,Case Management,Case Management,Increased Agent Productivity,Case Management - Issue coding,2,2,,PR09918-61,PR09918-61,,,,,,,,,Req_044,Req_044,2,Case Management
+"Req_022
+PP_012",Req_022_001,T1 Inbound,RFP,Priority 2,Case Management - Automation,Data integration,Integration customer data ,Integrated warranty and customer information,13,13,,PR09918-90,#N/A,,,,,,,,,Req_022,Req_022,13,Data integration
+"Req_023
+PP_012",Req_023_001,"T1 Inbound
+
+
+T1 Power Sports/Equipment",RFP,Priority 2,Case Management - Automation,Data integration,Integration Campaign data,Integrated warranty and campaign  information,21,21,,PR09918-91,#N/A,,,,,,,,,Req_023,Req_023,21,Data integration
+Req_076,Req_076_001,T1 Inbound,RFP,Priority 2,Case Management - Automation,Einstein AI,Case Management - Automation,Suggest the next best action on the case,42,42,,PR09918-124,PR09918-124,,,,,,,,,Req_076,Req_076,42,Einstein AI
+Req_081,Req_081_001,T1 Inbound,RFP,Priority 1,Case Management - Automation,Case Management,Customer Self-service,Auto populating vehicle information,0,,Sprint 1,PR09918-58,PR09918-58,,,,,,,,,Req_081,Req_081,0,Case Management
+Req_089,Req_089_001,T1 Inbound,RFP,Priority 1,Case Management - Automation,Case Management - Automation,Case Management - Automation,Validation for case completion,3,3,Sprint 1,PR09918-100,PR09918-100,,,,,,,,,Req_089,Req_089,3,Case Management - Automation
+Req_095,Req_095_001,T1 Inbound,RFP,Priority 1,Case Management - Automation,Case Management - Automation,Case Management - Automation,Agent assist features,0,,,PR09918-101,PR09918-101,,,,,,,,,Req_095,Req_095,0,Case Management - Automation
+Req_096,Req_096_001,T1 Inbound,RFP,Priority 1,Case Management - Automation,Customer Self-service ,Customer Self-service ,Automated resolutions for customers,0,,,PR09918-112,PR09918-112,,,,,,,,,Req_096,Req_096,0,Customer Self-service 
+"Req_1008
+
+PP_009
+PP_007",Req_1008_001,T1 Inbound,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,Increased Agent Productivity,Capture the notes during the case closure process for any case type,5,5,Sprint 1,PR09918-84,#N/A,,,,,,,,,Req_1008,Req_1008,5,Case Management
+"Req_040
+PP_016
+PP_044(Powersports.
+Req_047(DCR Live chat)",Req_040_001,T1 Inbound,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,Increased Agent Productivity,Implement Auto-Save Functionality for Call Notes,3,3,Sprint 1,PR09918-143,PR09918-72,,,,,,,,,Req_040,Req_040,3,Case Management
+"Req_032
+Req_033
+",Req_033_001,T1 Inbound,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,Increased Agent Productivity,Case Management - Call Wrap-up,3,3,Sprint 1,PR09918-63,PR09918-161,,,,,,,,,Req_033,Req_033,3,Case Management
+Req_088,Req_088_001,T1 Inbound,RFP,Priority 1,Case Management - Call Wrap-up,Einstein AI,Case Management - Call Wrap-up,Case notes to be summarized,13,13,,PR09918-122,PR09918-122,,,,,,,,,Req_088,Req_088,13,Einstein AI
+"Req_1004
+PP_020",Req_1004_001,T1 Inbound,New,N/A,Case Management - Manage Cases,Case Management - Automation,Increased Agent Productivity,Case transferring between agents,0,,,PR09918-70,PR09918-70,,,,,,,,,Req_1004,Req_1004,0,Case Management - Automation
+"Req_1006
+PP_024",Req_1006_001,T1 Inbound,New,Priority 2,Case Management - Manage Cases,Case Management,Increased Agent Productivity,Distinguish Mediation case when denoted by RT,3,3,,PR09918-68,PR09918-68,,,,,,,,,Req_1006,Req_1006,3,Case Management
+"Req_1111
+PP_005",Req_1111_006,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Case Management,Customer contact  360 View,Standardize abbreviations for US and Mexico states,3,3,,PR09918-80,#N/A,,,,,,,,,Req_1111,Req_1111,3,Case Management
+"Req_101
+PP_003
+",Req_101_001,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Consistent Customer data, Merge Duplicate Contacts in Salesforce CRRS,5,5,Sprint 1,PR09918-181,#N/A,,,,,,,,,Req_101,Req_101,5,Case Management
+"Req_002
+PP_023",Req_002_001,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Case Management - Manage Contacts,Consistent Customer data,Create a New Contact in Salesforce CRRS,5,5,,PR09918-78,PR09918-78,,,,,,,,,Req_002,Req_002,5,Case Management - Manage Contacts
+"Req_101
+PP_003",Req_101_001,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Consistent Customer data,Automatic duplicate contact data detection,5,5,Sprint 1,PR09918-182,#N/A,,,,,,,,,Req_101,Req_101,5,Case Management
+"Req_1110
+PP_004",Req_1110_001,T1 Inbound,New,N/A,Case Management - Manage Contacts,Data integration,Integration of USPS with custoner address,Realtime USPS address verification for accurate customer address information ,8,8,,PR09918-92,#N/A,,,,,,,,,Req_1110,Req_1110,8,Data integration
+"Req_002
+",Req_002_001,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Case Management - Manage Contacts,Consistent Customer data,Create a New Contact in Salesforce CRRS,5,5,,PR09918-78,PR09918-78,,,,,,,,,Req_002,Req_002,5,Case Management - Manage Contacts
+"Req_1001
+PP_011",Req_1001_001,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Agent Functions via Email Application,Increased Agent Productivity,In-System Draft Email Review Process,5,5,,PR09918-93,#N/A,,,,,,,,,Req_1001,Req_1001,5,Agent Functions via Email Application
+"Req_002
+PP_010",Req_002_002,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Case Management - Manage Contacts,Increased Agent Productivity,Auto-Populate Fields for Common Issue Types like 'Radio Code',8,8,,PR09918-96,PR09918-78,,,,,,,,,Req_002,Req_002,8,Case Management - Manage Contacts
+"Req_002
+PP_011_A",Req_002_003,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Case Management - Manage Contacts,Increased Agent Productivity,Enhance Email Professionalism Using SFDC Native AI,5,5,,PR09918-95,PR09918-78,,,,,,,,,Req_002,Req_002,5,Case Management - Manage Contacts
+"Req_002
+PP_011_B
+QE_004",Req_002_004,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Case Management - Manage Contacts,Increased Agent Productivity,Automated Incrementing of Document/Note Number for Agent Credit,2,2,,PR09918-173,PR09918-78,,,,,,,,,Req_002,Req_002,2,Case Management - Manage Contacts
+"Req_103
+PP_005_A",Req_103_001,T1 Inbound,New,N/A,Case Management - Manage Contacts,Data Integration,Customer contact 360 View,Customer Lookup,3,3,,PR09918-71,PR09918-71,,,,,,,,,Req_103,Req_103,3,Data Integration
+"Req_1003
+Req_050(T2 DCR/Live Chat)
+PP_022",Req_1003_001,T1 Inbound,New,N/A,Case Management - Manage Contacts,Case Management - Automation,Increased Agent Productivity,Populate  Contact information on Case ,2,2,,PR09918-98,#N/A,,,,,,,,,Req_1003,Req_1003,2,Case Management - Automation
+Req_002,Req_002_005,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Case Management - Manage Contacts,Contact Management,Create a customer record in CRRS,2,2,,PR09918-67,PR09918-78,,,,,,,,,Req_002,Req_002,2,Case Management - Manage Contacts
+Req_002,Req_002_006,T1 Inbound,New,Priority 1,Case Management - Manage Contacts,Case Management - Manage Contacts,Contact Management,Search customer record in CRRS,2,2,,PR09918-66,PR09918-78,,,,,,,,,Req_002,Req_002,2,Case Management - Manage Contacts
+"Req_077
+Req_001
+PP_001_A",Req_001_003,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Customer contact  360 view,Unified Customer interaction : View  customer case history,8,8,Sprint 1,PR09918-74,PR09918-55,,,,,,,,,Req_001,Req_001,8,Case Management
+Req_087,Req_087_001,T1 Inbound,RFP,Priority 3,Case Management - Manage Contacts,Case Management,Case Management - Manage Contacts,Schedule appointment with Dealer,21,21,,PR09918-179,PR09918-179,,,,,,,,,Req_087,Req_087,21,Case Management
+Req_102,Req_102_001,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Household Functionality- Manage Contacts ,Unified Customer profile view: View customer case history,5,5,,PR09918-57,PR09918-77,,,,,,,,,Req_102,Req_102,5,Case Management
+Req_001,Req_001_001,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Customer contact  360 View,Unified Customer profile view: View  customer case history,3,3,Sprint 1,PR09918-55,PR09918-55,,,,,,,,,Req_001,Req_001,3,Case Management
+"Req_001
+PP_001_A
+Req_077",Req_001_002,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Customer contact  360 View,Unified Customer profile view : View a timeline of all customer past interactions,13,13,Sprint 1,PR09918-56,PR09918-55,,,,,,,,,Req_001,Req_001,13,Case Management
+Req_001,Req_001_003,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Customer contact  360 View,Unified Customer profile view : View customer product details,8,8,,PR09918-74,PR09918-55,,,,,,,,,Req_001,Req_001,8,Case Management
+"Req_001
+PP_023
+Req_003",Req_001_004,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Customer contact  360 View,Unified Customer profile view : View customer personal details,2,2,Sprint 1,PR09918-75,PR09918-55,,,,,,,,,Req_001,Req_001,2,Case Management
+Req_001,Req_001_005,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Case list view,Search and Filter the case data,5,5,Sprint 1,PR09918-76,PR09918-55,,,,,,,,,Req_001,Req_001,5,Case Management
+"Req_001
+PP_024_A
+",Req_001_007,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Survey Responses,Sentiment analysis for survey responses,13,13,,PR09918-164,PR09918-55,,,,,,,,,Req_001,Req_001,13,Case Management
+Req_001,Req_001_008,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Consistent Customer data,Update an Existing Contact in Salesforce CRRS,3,3,Sprint 1,PR09918-81,PR09918-55,,,,,,,,,Req_001,Req_001,3,Case Management
+Req_001,Req_001_010,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Increased Agent Productivity,Implement Survey Functionality in CRRS for Enhanced Customer Feedback Collection,8,8,,#N/A,PR09918-55,,,,,,,,,Req_001,Req_001,8,Case Management
+"Req_001
+PP_001_B",Req_001_011,T1 Inbound,RFP,Priority 1,Case Management - Manage Contacts,Case Management,Customer contact  360 View,Unified Customer profile view : Optimize Case flows and Subflows to Reduce Average Handling Time (AHT),21,21,,PR09918-82,PR09918-55,,,,,,,,,Req_001,Req_001,21,Case Management
+"Req_043
+OBS_006
+PP_021
+OBS_012
+PP_017",Req_043_001,T1 Inbound,RFP,Priority 1,Case Management - Process,Case Management,Increased Agent Productivity,Enable reopening a cases for various reasons to address follow-up issues,5,5,Sprint 1,PR09918-83,#N/A,,,,,,,,,Req_043,Req_043,5,Case Management
+"Req_080
+PP_018
+PP_002
+",Req_080_001,T1 Inbound,RFP,Priority 1,Case Management - Process,Case Management,Customer contact 360 View,Process Flow for call handling,5,5,Sprint 1,PR09918-178,#N/A,,,,,,,,,Req_080,Req_080,5,Case Management
+Req_090,Req_090_001,T1 Inbound,RFP,Priority 1,Case Management - Process,Agent Functions via Email Application,Case Management - Process,Ability to communicate across Honda departments,3,3,,PR09918-180,PR09918-180,,,,,,,,,Req_090,Req_090,3,Agent Functions via Email Application
+Req_003,Req_003_001,T1 Inbound,RFP,Priority 1,Case Management - Search,Search Functionality,Consistent Customer data,Search a customer record,0,,Sprint 1,PR09918-89,PR09918-89,,,,,,,,,Req_003,Req_003,0,Search Functionality
+Req_078,Req_078_001,T1 Inbound,RFP,Priority 2,Customer Self-service ,Customer Self-service,Customer Self-service,Relevant articles to be shown ,0,,,PR09918-106,PR09918-106,,,,,,,,,Req_078,Req_078,0,Customer Self-service
+Req_079,Req_079_001,T1 Inbound,RFP,Priority 1,Customer Self-service ,Customer Self-service,Customer Self-service,Case notification to be received upon change in case status,0,,,PR09918-107,PR09918-107,,,,,,,,,Req_079,Req_079,0,Customer Self-service
+"Req_083
+Req_084","Req_083_001
+Req_084_001",T1 Inbound,RFP,Priority 1,Customer Self-service ,Customer Self-service,Customer Self-service,Relevant information to be shown for On demand Technical Assistance and Marketing,0,,,PR09918-109,PR09918-109,,,,,,,,,Req_083,Req_083,0,Customer Self-service
+Req_085,Req_085_001,T1 Inbound,RFP,Priority 2,Customer Self-service ,Customer Self-service ,Customer Notification,Notification to customer about latest repairs and parts status,5,5,,PR09918-110,PR09918-110,,,,,,,,,Req_085,Req_085,5,Customer Self-service 
+Req_086,Req_086_001,T1 Inbound,RFP,Priority 1,Customer Self-service ,Customer Self-service ,Customer Self-service,Nearest dealership to be shown as per location of the car,0,,Sprint 1,PR09918-111,PR09918-111,,,,,,,,,Req_086,Req_086,0,Customer Self-service 
+Req_098,Req_098_001,T1 Inbound,RFP,Priority 2,Customer Self-service ,Customer Self-service ,Customer Self-service ,Case status to be visible to customer,0,,,PR09918-113,PR09918-113,,,,,,,,,Req_098,Req_098,0,Customer Self-service 
+Req_145,Req_145_001,T1 Inbound,RFP,Priority 1,Data Integration,Data Integration,Data Integration,Quick links to access Campaigns,0,,,PR09918-120,PR09918-120,,,,,,,,,Req_145,Req_145,0,Data Integration
+"Req_1002
+Req_137 (Knowledge)
+PP_006",Req_1002_001,"T1 Inbound /
+Knowledge",New,N/A,Knowledge Management,Search Functionality,Increased Agent Productivity,Knowledge Articles Search,8,8,,PR09918-183,#N/A,,,,,,,,,Req_1002,Req_1002,8,Search Functionality
+Req_094,Req_094_001,T1 Inbound,RFP,Priority 1,Knowledge Management,Training,Knowledge Management,Modular based training to be available ,0,,,PR09918-185,PR09918-185,,,,,,,,,Req_094,Req_094,0,Training
+"Req_1007
+PP_001",Req_1007_001,T1 Inbound,New,Priority 1,Service Cloud Console / Page Layouts,Case Management,Case management,Automate Issue Coding to Reduce Generic Case Reasons,13,13,,PR09918-79,#N/A,,,,,,,,,Req_1007,Req_1007,13,Case Management
+"Req_025
+PP_014",Req_025_001,T1 Inbound,RFP,Priority 1,Service Cloud Console / Page Layouts,Data integration,Increased Agent Productivity,Ensuring Accurate Product Information Integration from Mainframe to Salesforce,21,21,,PR09918-117,PR09918-177,,,,,,,,,Req_025,Req_025,21,Data integration
+"Req_1005
+PP_019",Req_1005_001,T1 Inbound,New,Priority 1,Service Cloud Console / Page Layouts,Case Management,Increased Agent Productivity,Subdivision field should be automatically updated when ownership is transferred to other department,8,8,,PR09918-167,#N/A,,,,,,,,,Req_1005,Req_1005,8,Case Management
+Req_045,Req_045_001,T1 Inbound,RFP,Priority 1,Service Cloud Console / Page Layouts,Case Management,Increased Agent Productivity,Add Disposition Code for Cases,2,2,,PR09918-69,PR09918-69,,,,,,,,,Req_045,Req_045,2,Case Management
+Req_012,Req_012_001,T1 Inbound,RFP,Priority 1,Service Cloud Console / Page Layouts,Quick case,Case management,Add a coding for quick case,3,3,Sprint 1,PR09918-175,PR09918-175,,,,,,,,,Req_012,Req_012,3,Quick case
+"Req_024
+PP_013",Req_024_001,T1 Inbound,RFP,Priority 2,Service Cloud Console / Page Layouts,Data Integration,Increased Agent Productivity,Display of Active open recalls for customer,2,2,,PR09918-119,#N/A,,,,,,,,,Req_024,Req_024,2,Data Integration
+Req_025,Req_025_002,T1 Inbound,RFP,Priority 1,Service Cloud Console / Page Layouts,Data integration,Vehicle 360 view,Unified Vehicle view : View the vehicle details,5,5,,PR09918-177,PR09918-177,,,,,,,,,Req_025,Req_025,5,Data integration
+Req_034,Req_034_001,T1 Inbound,RFP,Priority 1,Service Cloud Console / Page Layouts,Case Management,Increased Agent Productivity,Case Management - Case details,2,2,Sprint 2,PR09918-62,PR09918-62,,,,,,,,,Req_034,Req_034,2,Case Management
+Req_082,Req_082_001,T1 Inbound,RFP,Priority 1,Service Cloud Console / Page Layouts,Customer Self-service,Customer Self-service,Auto-login for the customer,0,,,PR09918-108,PR09918-108,,,,,,,,,Req_082,Req_082,0,Customer Self-service
+Req_097,Req_097_001,T1 Inbound,RFP,Priority 1,Service Cloud Console / Page Layouts,Search Functionality,Service Cloud Console / Page Layouts,Unified Customer profile view : View customer personal details,0,,Sprint 1,PR09918-75,PR09918-186,,,,,,,,,Req_097,Req_097,0,Search Functionality
+"Req_1014
+PP_028",Req_1014_001,T1 Inbound Mexico,New,Priority 2,Data Integration,Data Integration,Recall Campaign Process,Streamline Recall Campaign Processes Through Real-time Integration with eVRM and Other Applications,13,13,,PR09918-134,#N/A,,,,,,,,,Req_1014,Req_1014,13,Data Integration
+"Req_1015
+PP_029
+PP_030",Req_1015_001,T1 Inbound Mexico,New,Priority 4,Data Integration,Data Integration,Cisco IVR Integration,Automate Report Generation by Integrating Cisco IVR Data directly into CRRS,13,13,,PR09918-188,#N/A,,,,,,,,,Req_1015,Req_1015,13,Data Integration
+"Req_1011
+PP_025",Req_1011_001,T1 Inbound Mexico,New,Priority 1,Data Integration,Data integration,Increased Agent Productivity,Integrate eVRM campaign information with CRRS,8,8,,PR09918-132,#N/A,,,,,,,,,Req_1011,Req_1011,8,Data integration
+"Req_032
+PP_034",Req_032_001,T1 Inbound Mexico,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,Standard Templates for Call notes,Streamline Call Note  with Standardized Templates,5,5,,PR09918-94,PR09918-63,,,,,,,,,Req_032,Req_032,5,Case Management
+"Req_1018
+PP_035",Req_1018_001,T1 Inbound Mexico,New,Priority 1,Case Management - Automation,Case Management,Increased Agent Productivity,Enhance Techline Case Management with CPA (Claim Prior Authorization) Number and Reason Code Integration,3,3,,PR09918-127,PR09918-127,,,,,,,,,Req_1018,Req_1018,3,Case Management
+"Req_1020
+PP_038",Req_1020_001,T1 Inbound Mexico,New,Priority 1,Case Management - Automation,Data integration,Increased Agent Productivity,Streamline Dealer Support by Integrating SIS Labor Operation Codes into Techline Processes,21,21,,PR09918-135,#N/A,,,,,,,,,Req_1020,Req_1020,21,Data integration
+"Req_1019
+PP_036",Req_1019_001,T1 Inbound Mexico,New,Priority 1,Case Management - Automation,Case Management,Increased Agent Productivity,Enabling Cross-referencing of CPA number to the Cases.,5,5,,PR09918-128,PR09918-128,,,,,,,,,Req_1019,Req_1019,5,Case Management
+"Req_1172
+PP_024_B",Req_1172_001,T1 Inbound Mexico,New,Priority 1,Case Management - Automation,Case Management - Automation,Increased Agent Productivity,Enforce Issue Creation with Specific Coding Before Case Closure in Mexico,8,8,,PR09918-130,PR09918-130,,,,,,,,,Req_1172,Req_1172,8,Case Management - Automation
+"Req_020
+PP_039",Req_020_001,T1 Inbound Mexico,RFP,Priority 1,Service Cloud Console / Page Layouts,Data integration,Increased Agent Productivity,Enhance the vehicle model data,0,,,PR09918-131,PR09918-59,,,,,,,,,Req_020,Req_020,0,Data integration
+"Req_026
+PP_040",Req_026_001,T1 Inbound Mexico,RFP,Priority 1,Service Cloud Console / Page Layouts,Case Management,Increased Agent Productivity,Enhance the data in CRRS for exporting,3,3,,PR09918-88,PR09918-88,,,,,,,,,Req_026,Req_026,3,Case Management
+"Req_020
+PP_031",Req_020_001,T1 Inbound Mexico,RFP,Priority 1,Service Cloud Console / Page Layouts,Data integration,Increased Agent Productivity,Update the picklist of make/model. ,0,,,PR09918-59,PR09918-59,,,,,,,,,Req_020,Req_020,0,Data integration
+"Req_1021
+PP_037",Req_1021_001,T1 Inbound Mexico,New,Priority 2,Case Management - Process,Case Management,Increased Agent Productivity,Enable Agents to capture the root cause for given case,5,5,,PR09918-129,PR09918-129,,,,,,,,,Req_1021,Req_1021,5,Case Management
+"Req_1016
+PP_032",Req_1016_001,T1 Inbound Mexico,New,Priority 1,Call and Channel Support,Case Management,Increased Agent Productivity,Enhance the repair data,2,2,,PR09918-126,PR09918-126,,,,,,,,,Req_1016,Req_1016,2,Case Management
+"Req_1013
+PP_027",Req_1013_001,T1 Inbound Mexico,New,Priority 2,Case Management - Search,Data Integration,Increased Agent Productivity,Recall information access to Dealers,5,5,,PR09918-133,#N/A,,,,,,,,,Req_1013,Req_1013,5,Data Integration
+"Req_1017
+PP_033",Req_1017_001,T1 Inbound Mexico,New,Priority 1,Administration,Language Translation,Increased Agent Productivity,Enable system-driven English-Spanish Translation and Language preference selection,5,5,,PR09918-137,#N/A,,,,,,,,,Req_1017,Req_1017,5,Language Translation
+"Req_1012
+PP_026",Req_1012_001,T1 Inbound Mexico,New,Priority 2,Case Management - Manage Cases,Case Management,Increased Agent Productivity,Enable Case history and access to US recall issues for a given VIN to Mexico team,2,2,,PR09918-125,PR09918-125,,,,,,,,,Req_1012,Req_1012,2,Case Management
+"Req_029
+PP_118",Req_029_001,T1/T2 Routing,RFP,Priority 1,Automatic Case Routing and Tracking,Case Management - Automation,,Escalating case to other queues,13,13,,PR09918-165,#N/A,,,,,,,,,Req_029,Req_029,13,Case Management - Automation
+Req_071,Req_071_001,T1/T2 Routing,RFP,Priority 1,Automatic Case Routing and Tracking,Case Management ,,Automate the case assignment for the queues,3,3,,PR09918-165,PR09918-165,,,,,,,,,Req_071,Req_071,3,Case Management 
+"Req_1113
+PP_117",Req_1113_001,T1/T2 Routing,RFP,Priority 1,Case Management,Case Management - Automation ,,Automate the case assignment for the queues,5,5,,#N/A,#N/A,,,,,,,,,Req_1113,Req_1113,5,Case Management - Automation 
+"Req_1118
+PP_120",Req_1118_001,T1/T2 Routing,New,Priority 2,Case Management,Case Management - Automation,,Re-open case when email to case is received,8,8,,PR09918-170,#N/A,,,,,,,,,Req_1118,Req_1118,8,Case Management - Automation
+"Req_1089
+PP_121",Req_1089_001,T1/T2 Routing,New,Priority 1,Case Management,Case Management - Automation,,Automate Case assignment using queues,5,5,,PR09918-171,#N/A,,,,,,,,,Req_1089,Req_1089,5,Case Management - Automation
+"Req_1116
+PP_123",Req_1116_001,T1/T2 Routing,New,Priority 2,Case Management,Case Management - Automation,,Auto assignment of Re-opened case to the case manager,8,8,,PR09918-172,#N/A,,,,,,,,,Req_1116,Req_1116,8,Case Management - Automation
+"Req_1005
+PP_019
+Req_1117
+PP_124","Req_1005_001
+Req_1117_001",T1/T2 Routing,New,Priority 1,Case Management,Case Management,,Subdivision field should be automatically updated when ownership is transferred to other department,13,13,,PR09918-167,#N/A,,,,,,,,,Req_1005,Req_1005,13,Case Management
+"Req_1114
+PP_119",Req_1114_001,T1/T2 Routing,RFP,Priority 1,Product Support,Case Management,,Add/update the projects/workflows for Business team,5,5,,PR09918-166,#N/A,,,,,,,,,Req_1114,Req_1114,5,Case Management
+"Req_1115
+PP_122",Req_1115_001,T1/T2 Routing,New,Priority 1,Case Management- Search,Duplicate Management,,Merge Duplicate cases once case received through email,13,13,,PR09918-187,#N/A,,,,,,,,,Req_1115,Req_1115,13,Duplicate Management
+"Req_031
+PP_041",Req_031_001,T1 Inbound Powersports,RFP,Priority 1,Case Management,Search Functionality,,Creation of validation feature to display corresponding VIN information with minimum time response for search,13,13,,PR09918-159,#N/A,,,,,,,,,Req_031,Req_031,13,Search Functionality
+"Req_042
+",Req_042_001,T1 Inbound Powersports,RFP,Priority 1,Case Management,Case Management,,Ability of cloning existing Case record,2,2,,PR09918-141,PR09918-141,,,,,,,,,Req_042,Req_042,2,Case Management
+"Req_1112
+PP_042
+PP_057",Req_1112_001,T1 Inbound Powersports,RFP,Priority 1,Case Management - Automation,Case Management,,Implementing 'My Cases' List View for Enhanced Case Ownership Tracking,3,3,,PR09918-138,#N/A,,,,,,,,,Req_1112,Req_1112,3,Case Management
+Req_052,Req_052_001,T1 Inbound Powersports,RFP,Priority 1,Case Management - Automation,Data Integration,,Automating Warranty Information Retrieval and Enhancing Notification Systems for Powersports Agent,5,5,,PR09918-150,PR09918-150,,,,,,,,,Req_052,Req_052,5,Data Integration
+Req_052,Req_052_002,T1 Inbound Powersports,RFP,Priority 1,Case Management - Automation,Data Integration,,Notification for pending mediation and Techline issues,5,5,,PR09918-146,PR09918-150,,,,,,,,,Req_052,Req_052,5,Data Integration
+"Req_1024
+PP_053
+PP_054",Req_1024_001,T1 Inbound Powersports,New,Priority 1,Case Management - Automation,Data Integration,,Enhancing Dealer Lookup Functionality within CRRS for Efficient Customer Support,13,13,,PR09918-151,PR09918-151,,,,,,,,,Req_1024,Req_1024,13,Data Integration
+"Req_1031
+Req_033(T1 Inbound)",Req_1031_001,T1 Inbound Powersports,New,Priority 1,Case Management - Automation,Agent Console Call Flow,,Creation of Call Flow Templates for Specific Power Sports Case Types,8,8,,PR09918-161,#N/A,,,,,,,,,Req_1031,Req_1031,8,Agent Console Call Flow
+"Req_1022
+PP_052
+",Req_1022_001,T1 Inbound Powersports,New,Priority 1,Case Management - Automation,Case Management - Automation,,"Alerts for the all currently open and previously closed cases (mediation, Techline issues.  ",5,5,,PR09918-147,PR09918-147,,,,,,,,,Req_1022,Req_1022,5,Case Management - Automation
+"Req_1030
+PP_060
+Req_033(T1 Inbound. ",Req_1030_001,T1 Inbound Powersports,RFP,N/A,Case Management - Automation,Agent Console Call Flow,,Call flow template required for case types,5,5,,PR09918-163,#N/A,,,,,,,,,Req_1030,Req_1030,5,Agent Console Call Flow
+"Req_040
+PP_016
+PP_044(Powersports. ",Req_040_003,T1 Inbound Powersports,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,,Implement Auto-Save Functionality for Call Notes,0,,,PR09918-143,PR09918-72,,,,,,,,,Req_040,Req_040,0,Case Management
+"Req_1026
+PP_043",Req_1026_001,T1 Inbound Powersports,Out of scope,Priority 1,Case Management - Process,Data Integration,,Product Registration status from Dealer,21,21,,PR09918-152,#N/A,,,,,,,,,Req_1026,Req_1026,21,Data Integration
+"Req_004
+PP_041
+Req_031",Req_004_001,T1 Inbound Powersports,RFP,Priority 1,Case Management - Search,Search Functionality,,Improve Serial Number Search Functionality for Power Sports and Equipment in CRRS,3,3,,PR09918-160,PR09918-148,,,,,,,,,Req_004,Req_004,3,Search Functionality
+"PP_043
+Req_004",Req_004_002,T1 Inbound Powersports,RFP,Priority 1,Case Management - Search,Search Functionality,,Enhance Product Registration Turnaround Time via System Integration,0,,,PR09918-148,PR09918-148,,,,,,,,,Req_004,Req_004,0,Search Functionality
+Req_004,Req_004_003,T1 Inbound Powersports,RFP,Priority 1,Case Management - Search,Search Functionality,,Implement GenAI Solution for Efficient Management of Multiple Product Manuals in CRRS,8,8,,PR09918-156,PR09918-148,,,,,,,,,Req_004,Req_004,8,Search Functionality
+"Req_004
+PP_057",Req_004_004,T1 Inbound Powersports,RFP,Priority 1,Case Management - Search,Search Functionality,,Ensuring Accurate Survey Email Templates on Case Ownership Transfer,5,5,,PR09918-140,PR09918-148,,,,,,,,,Req_004,Req_004,5,Search Functionality
+"Req_1027
+PP_046
+Req_081(T1 Inbound. ",Req_1027_001,T1 Inbound Powersports,New,Priority 1,Customer Self-service,Search Functionality,,Serial number lookup functionality for cases,5,5,,PR09918-155,#N/A,,,,,,,,,Req_1027,Req_1027,5,Search Functionality
+"Req_1032
+Req_023(T1 Inbound. 
+Req_022(T1 Inbound. 
+PP_048",Req_1032_001,T1 Inbound Powersports,New,Priority 1,Data Integration,Data Integration,,Enhanced Display and Access to Campaign and Warranty Information,5,5,,PR09918-149,#N/A,,,,,,,,,Req_1032,Req_1032,5,Data Integration
+"PP_045
+PP_049
+Req_147(Reporting. ",Req_147_001,T1 Inbound Powersports,RFP,Priority 3,Data Integration,Data Integration,,Service bulletin links to be accurate while working,8,8,,#N/A,#N/A,,,,,,,,,Req_147,Req_147,8,Data Integration
+Req_248,Req_248_001,Reports & Dashboards,RFP,Priority 1,Reports & Dashboards,Reports & Dashboards,,Ability of reporting on Agent productivity as a Supervisor,0,,,#N/A,#N/A,,,,,,,,,Req_248,Req_248,0,Reports & Dashboards
+Req_249,Req_249_001,T1 Inbound Powersports,RFP,Priority 1,Reports & Dashboards,Reports & Dashboards,,Ability of reporting on Outbound and Inbound calls for Power Sports as a Supervisor,5,5,,PR09918-154,PR09918-154,,,,,,,,,Req_249,Req_249,5,Reports & Dashboards
+Req_005,Req_005_001,T1 Inbound Powersports,RFP,Priority 1,Service Cloud Console / Page Layouts,Case management,,Enhanced Vehicle/Product Coding for Power Sports and Equipment,5,5,,PR09918-139,PR09918-139,,,,,,,,,Req_005,Req_005,5,Case management
+"Req_1033
+PP_055",Req_1033_001,T1 Inbound Powersports,RFP,Priority 1,Service Cloud Console / Page Layouts,Search Functionality,,Enhancing Efficiency in Manual Lookup and Serial Number Validation for PSP/PE Products,0,,,PR09918-157,#N/A,,,,,,,,,Req_1033,Req_1033,0,Search Functionality
+Req_041,Req_041_001,T1 Inbound Powersports,RFP,Priority 1,Service Cloud Console / Page Layouts,Search Functionality,,Ensuring Accurate and Consistent Bulletin Links and Naming Conventions,0,,,PR09918-158,PR09918-158,,,,,,,,,Req_041,Req_041,0,Search Functionality
+Req_046,Req_046_001,T1 Inbound Powersports,RFP,Priority 1,Service Cloud Console / Page Layouts,Case Management,,Ability of Contact Center Agents to add Disposition Coding to Powersports/Power Tools case,2,2,,PR09918-142,PR09918-142,,,,,,,,,Req_046,Req_046,2,Case Management
+"Req_1028
+PP_047
+Req_005(T1 Inbound. ",Req_1028_001,T1 Inbound Powersports,New,Priority 1,Service Cloud Console / Page Layouts,Data Integration,,Selling year of the product to be shown ,3,3,,PR09918-153,PR09918-153,,,,,,,,,Req_1028,Req_1028,3,Data Integration
+"Req_1023
+PP_050",Req_1023_001,T1 Inbound Powersports,New,Priority 1,Service Cloud Console / Page Layouts,Case Management,,Granular picklist values for PSP division,5,5,,PR09918-144,PR09918-144,,,,,,,,,Req_1023,Req_1023,5,Case Management
+"Req_1029
+PP_051
+Req_020(Inbound Mexico. ",Req_1029_001,T1 Inbound Powersports,New,Priority 1,Service Cloud Console / Page Layouts,Case Management,,Auto populate new models in the picklist,2,2,,PR09918-145,PR09918-145,,,,,,,,,Req_1029,Req_1029,2,Case Management
+"Req_1025
+PP_058",Req_1025_001,T1 Inbound Powersports,New,Priority 2,Service Cloud Console / Page Layouts,Agent Console Call Flow,,In-App Guidance/Alert screen flow ,5,5,,PR09918-162,#N/A,,,,,,,,,Req_1025,Req_1025,5,Agent Console Call Flow
+"Req_053
+EV_001",Req_053_001,T2 ASK Dave,RFP,Priority 1,Case Management,Data integration,,AskDave Integration with CRRS,21,21,,PR09918-282,#N/A,,,,,,,,,Req_053,Req_053,21,Data integration
+"Req_053
+PP_093_B",Req_053_002,T2 ASK Dave,RFP,Priority 1,Case Management,Data integration,,"Faster loading time in the AskDave system,",5,5,,PR09918-284,#N/A,,,,,,,,,Req_053,Req_053,5,Data integration
+"Req_1105
+PP_093_A",Req_1105_001,T2 ASK Dave,New,Priority 2,Case Management - Manage Contacts,Data integration,,Integration Continuity for AHM Call Center Request,5,5,,PR09918-283,#N/A,,,,,,,,,Req_1105,Req_1105,5,Data integration
+Req_054,Req_054_001,T2 ASK Dave,RFP,Priority 1,Reports & Dashboards,Reports & Dashboards,,Better data and reporting,3,3,,PR09918-285,PR09918-285,,,,,,,,,Req_054,Req_054,3,Reports & Dashboards
+"Req_144
+Req_143",Req_144_001,T2 DCR-Live Chat,RFP,Priority 1,Automatic Case Routing and Tracking,Case Management - Automation,,Live chat to be associated to Case,5,5,,PR09918-204,#N/A,,,,,,,,,Req_144,Req_144,5,Case Management - Automation
+"Req_1125
+PP_066",Req_1125_001,T2 DCR-Live Chat,New,Priority 3,Call and Channel Support,Case Management,,Auto-saves the chat transcript in pdf format ,5,5,,#N/A,#N/A,,,,,,,,,Req_1125,Req_1125,5,Case Management
+"Req_1138
+PP_074",Req_1138_001,T2 DCR-Live Chat,RFP,Priority 1,Case Management,Agent Console Call Flow,,Templates/screen flows for specific type of issues ,3,3,,PR09918-215,#N/A,,,,,,,,,Req_1138,Req_1138,3,Agent Console Call Flow
+"Req_1124
+PP_064",Req_1124_001,T2 DCR-Live Chat,New,Priority 2,Case Management - Automation,Case Management,,Auto-save case notes when system has shut down ,8,8,,PR09918-193,#N/A,,,,,,,,,Req_1124,Req_1124,8,Case Management
+Req_047,Req_047_001,T2 DCR-Live Chat,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,,Auto save functionality for case notes,13,13,,PR09918-191,PR09918-191,,,,,,,,,Req_047,Req_047,13,Case Management
+"Req_1129
+PP_069_B",Req_1129_001,T2 DCR-Live Chat,New,Priority 1,Case Management - Manage Cases,Case Management,,Case link to be provided to Customer,3,3,,PR09918-196,#N/A,,,,,,,,,Req_1129,Req_1129,0,Case Management
+"Req_1130
+PP_069_C
+Req_050
+Req_141",Req_1130_001,T2 DCR-Live Chat,RFP,Priority 1,Case Management - Manage Contacts,Case Management - Automation,,Customer information pop up for regular customer ,8,8,,PR09918-201,#N/A,,,,,,,,,Req_1130,Req_1130,8,Case Management - Automation
+"Req_1133
+PP_071",Req_1133_001,T2 DCR-Live Chat,RFP,Priority 1,Case Management - Manage Contacts,Case Management,,Auto attach the contact to Case,8,8,,PR09918-197,#N/A,,,,,,,,,Req_1133,Req_1133,8,Case Management
+Req_100,Req_100_01,T2 DCR-Live Chat,RFP,Priority 4,Case Management - Manage Contacts,Case Management,,System Validation for Registered Owner,5,5,,#N/A,#N/A,,,,,,,,,Req_100,Req_100,5,Case Management
+"Req_1127
+PP_069",Req_1127_001,T2 DCR-Live Chat,RFP,Priority 1,Case Management - Process,Agent Console Call Flow,,Templatized  Call flow with pre-populated fields ,0,0,,PR09918-214,#N/A,,,,,,,,,Req_1127,Req_1127,0,Agent Console Call Flow
+Req_051,Req_051_001,T2 DCR-Live Chat,RFP,Priority 1,Case Management - Search,Search Functionality,,Verify / Create Customer information,5,5,,PR09918-205,PR09918-205,,,,,,,,,Req_051,Req_051,5,Search Functionality
+"Req_1136
+PP_073_A
+
+",Req_1136_001,T2 DCR-Live Chat,New,Priority 2,Customer Self-service ,Customer Self-service,,Initial Screening with Self service tool,5,5,,PR09918-209,#N/A,,,,,,,,,Req_1136,Req_1136,0,Customer Self-service
+Req_091,Req_091_001,T2 DCR-Live Chat,RFP,Priority 1,Customer Self-service ,Customer Self-service ,,Self Service options for customers ,5,5,,PR09918-211,PR09918-211,,,,,,,,,Req_091,Req_091,5,Customer Self-service 
+"Req_1123
+PP_063_B",Req_1123_001,T2 DCR-Live Chat,New,Priority 3,Data Integration,Data Integration,,Quatrics is integrated with CRRS for Survey functionality,13,13,,#N/A,#N/A,,,,,,,,,Req_1123,Req_1123,13,Data Integration
+"Req_1134
+PP_072
+PP_072_A",Req_1134_001,T2 DCR-Live Chat,RFP,Priority 2,Data Integration,Data Integration,,Sprouts Integration with CRRS,13,13,,PR09918-306,#N/A,,,,,,,,,Req_1134,Req_1134,13,Data Integration
+"Req_1139
+PP_074_A
+",Req_1139_001,T2 DCR-Live Chat,New,Priority 3,Data Integration,Data Integration,,Integrate Qualtrics data or implement Survey functionality within CRRS,13,13,,#N/A,#N/A,,,,,,,,,Req_1139,Req_1139,13,Data Integration
+"Req_1137
+PP_073_B
+",Req_1137_001,T2 DCR-Live Chat,New,Priority 2,Knowlege Article,Einstein GenAI,,Einsten - Generate KB articles,3,3,,PR09918-212,#N/A,,,,,,,,,Req_1137,Req_1137,0,Einstein GenAI
+"Req_1128
+PP_069_A
+Req_049",Req_1128_001,T2 DCR-Live Chat,New,Priority 1,Live Agent Chat,Case Management,,Request to Customer for Sending/Receiving pictures  ,5,5,,PR09918-195,#N/A,,,,,,,,,Req_1128,Req_1128,5,Case Management
+"Req_1131
+PP_069_D
+Req_048",Req_1131_001,T2 DCR-Live Chat,RFP,Priority 1,Live Agent Chat,Case Management - Automation,,Migration of chat templates in Lightning to CRRS,5,5,,PR09918-202,#N/A,,,,,,,,,Req_1131,Req_1131,5,Case Management - Automation
+"Req_1132
+PP_070",Req_1132_001,T2 DCR-Live Chat,RFP,Priority 1,Live Agent Chat,Case Management - Automation,,Pre-populate the information from contacts in case,8,8,,PR09918-203,#N/A,,,,,,,,,Req_1132,Req_1132,8,Case Management - Automation
+"Req_1135
+PP_073",Req_1135_001,T2 DCR-Live Chat,New,Priority 1,Live Agent Chat,Case Management,,Auto save Chat session,5,5,,PR09918-198,#N/A,,,,,,,,,Req_1135,Req_1135,0,Case Management
+Req_142,Req_142_001,T2 DCR-Live Chat,RFP,Priority 2,Live Agent Chat,Customer Self-Service,,Enable Multiple websites to initiate chate,13,13,,PR09918-210,PR09918-210,,,,,,,,,Req_142,Req_142,13,Customer Self-Service
+"Req_1126
+PP_067
+PP_068",Req_1126_001,T2 DCR-Live Chat,New,Priority 1,Product Support,Data Integration,,Display the list of products owned by Owner,1,1,,PR09918-206,#N/A,,,,,,,,,Req_1126,Req_1126,1,Data Integration
+Req_263,Req_263_001,T2 DCR-Live Chat,RFP,Priority 1,Reports & Dashboards,Reports & Dashboards,,Report of Chat records,3,3,,PR09918-213,PR09918-213,,,,,,,,,Req_263,Req_263,3,Reports & Dashboards
+Req_073,Req_073_001,T2 PCRM Case Management,RFP,Priority 1,Case Management - Process,Case Management,,Quote status approval process,5,5,,PR09918-297,PR09918-297,,,,,,,,,Req_073,Req_073,5,Case Management
+Req_075,Req_075_001,T2 PCRM Case Management,RFP,Priority 1,Case Management,Agent Functions via Email Application,,Respond to cases using CRRS email,5,5,,PR09918-299,PR09918-299,,,,,,,,,Req_075,Req_075,5,Agent Functions via Email Application
+Req_074,Req_074_001,T2 PCRM Case Management,RFP,Priority 1,Case management,Case Management - Automation,,Automatic notification after tow/rental quote approval,3,3,,PR09918-298,PR09918-298,,,,,,,,,Req_074,Req_074,3,Case Management - Automation
+Req_072,Req_072_001,T2 PCRM Case Management,RFP,Priority 1,Case management,Case Management,,Track outbound calls and provide visibility to  Agents,5,5,,PR09918-300,PR09918-300,,,,,,,,,Req_072,Req_072,5,Case Management
+Req_172,Req_172_001,T2 Powersports,RFP,Priority 1,Case management,Case management,,Case management of the customer ,2,2,,PR09918-330,PR09918-330,,,,,,,,,Req_172,Req_172,2,Case management
+"Req_1147
+PP_213",Req_1147_001,T2 Powersports,New,Priority 2,Case management,Data Integration,,Display Training completed by dealer status on case ,21,21,,#N/A,#N/A,,,,,,,,,Req_1147,Req_1147,21,Data Integration
+"Req_1148
+PP_214",Req_1148_001,T2 Powersports,New,Priority 2,Case management,Data Integration,,Display Dealer premium level (L1 to L5) on case ,5,5,,#N/A,#N/A,,,,,,,,,Req_1148,Req_1148,5,Data Integration
+"Req_1153
+PP_219",Req_1153_001,T2 Powersports,New,Priority 2,Case management,Case Management,,Notification/Flag for Urgent cases,5,5,,#N/A,#N/A,,,,,,,,,Req_1153,Req_1153,5,Case Management
+"Req_1155
+PP_221",Req_1155_001,T2 Powersports,New,Priority 2,Case management,Case Management,,Status on case summary page,1,1,,#N/A,#N/A,,,,,,,,,Req_1155,Req_1155,1,Case Management
+"Req_1157
+PP_223",Req_1157_001,T2 Powersports,New,Priority 2,Automatic Case Routing and Tracking,Case Assignment,,Default queue assignment to Case  ,3,3,,#N/A,#N/A,,,,,,,,,Req_1157,Req_1157,3,Case Assignment
+"Req_1158
+PP_224",Req_1158_001,T2 Powersports,New,Priority 3,Automatic Case Routing and Tracking,Case Assignment ,,Enable auto-assign  case functionality for supervisors,5,5,,#N/A,#N/A,,,,,,,,,Req_1158,Req_1158,5,Case Assignment 
+Req_167,Req_167_001,T2 Powersports,RFP,Priority 1,Case Management,Case management,,Review Cases in the queue,3,3,,PR09918-309,PR09918-309,,,,,,,,,Req_167,Req_167,3,Case management
+Req_168,Req_168_001,T2 Powersports,RFP,Priority 1,Case Management,Case assignment,,Case assignment to Case manager,2,2,,PR09918-316,PR09918-316,,,,,,,,,Req_168,Req_168,2,Case assignment
+Req_169,Req_169_001,T2 Powersports,RFP,Priority 1,Case Management,Case management,,Triaging cases of the customer,2,2,,PR09918-317,PR09918-317,,,,,,,,,Req_169,Req_169,2,Case management
+Req_170,Req_170_001,T2 Powersports,RFP,Priority 1,Case Management,Case management,,Case accuracy codes,8,8,,PR09918-322,PR09918-322,,,,,,,,,Req_170,Req_170,8,Case management
+Req_171,Req_171_001,T2 Powersports,RFP,Priority 1,Case Management,Case management,,Call disposition and Document the case,2,2,,PR09918-329,PR09918-329,,,,,,,,,Req_171,Req_171,2,Case management
+Req_173,Req_173_001,T2 Powersports,RFP,Priority 1,Case Management,Case management,,Update code cases,,,,PR09918-332,PR09918-332,,,,,,,,,Req_173,Req_173,,Case management
+Req_176,Req_176_001,T2 Powersports,RFP,Priority 1,Case Management,Case Management,,Display pop-up message while creating case,3,,,PR09918-341,PR09918-341,,,,,,,,,Req_176,Req_176,3,Case Management
+Req_177,Req_177_001,T2 Powersports,RFP,Priority 1,Case Management,Case Assignment,,Case assignment to agents ,3,,,PR09918-342,PR09918-342,,,,,,,,,Req_177,Req_177,3,Case Assignment
+Req_178,Req_178_001,T2 Powersports,RFP,Priority 1,Case Management,Case Management,,Creation of New Case,3,,,#N/A,#N/A,,,,,,,,,Req_178,Req_178,3,Case Management
+"Req_1160
+PP_226",Req_1160_001,T2 Powersports,New,Priority 2,Case Management,Agent Functions via Email Application,,Display images on email along with in-line text ,13,,,#N/A,#N/A,,,,,,,,,Req_1160,Req_1160,13,Agent Functions via Email Application
+"Req_1154
+PP_220",Req_1154_001,T2 Powersports,New,Priority 2,Case Management - Call Wrap-up,Case Management,,Case notes field to be mandate,3,,,#N/A,#N/A,,,,,,,,,Req_1154,Req_1154,3,Case Management
+"Req_1156
+PP_222",Req_1156_001,T2 Powersports,New,Priority 2,"Case Management - Manage Cases
+
+
+
+
+
+
+
+
+
+",Case Management,,Update 'Customer/Dealer temperature',3,,,#N/A,#N/A,,,,,,,,,Req_1156,Req_1156,3,Case Management
+"Req_1152
+PP_218",Req_1152_001,T2 Powersports,New,Priority 2,Case Management - Process,Case Management,,Allow all  Warranty claims in Chatter feed,8,,,#N/A,#N/A,,,,,,,,,Req_1152,Req_1152,8,Case Management
+Req_055,Req_055_001,T2 Powersports,RFP,Priority 1,Case Management - Search,Duplicate Management,,Identify Duplicate cases ,0,,,PR09918-308,#N/A,,,,,,,,,Req_055,Req_055,0,Duplicate Management
+"Req_1143
+PP_209",Req_1143_001,T2 Powersports,New,Priority 2,Case Management - Search,Case Management,,Marine divisions to be added,3,,,#N/A,#N/A,,,,,,,,,Req_1143,Req_1143,3,Case Management
+"Req_1149
+PP_215",Req_1149_001,T2 Powersports,New,Priority 2,Customer Self-service ,Data Integration,,Display Product Section of the case,5,,,#N/A,#N/A,,,,,,,,,Req_1149,Req_1149,5,Data Integration
+"Req_1140
+PP_206",Req_1140_001,T2 Powersports,New,Priority 2,Data Integration,Data Integration,,USPS Integration for address verification,0,duplicate,,#N/A,#N/A,,,,,,,,,Req_1140,Req_1140,0,Data Integration
+"Req_1141
+PP_207",Req_1141_001,T2 Powersports,New,Priority 2,Data Integration,Data Integration,,Warranty and Campaign data with link for related service bulletins,5,,,#N/A,#N/A,,,,,,,,,Req_1141,Req_1141,5,Data Integration
+"Req_1142
+PP_208",Req_1142_001,T2 Powersports,New,Priority 2,Data Integration,Data Integration,,Mainframe Integration with CRRS,5,,,#N/A,#N/A,,,,,,,,,Req_1142,Req_1142,5,Data Integration
+"Req_1150
+PP_216",Req_1150_001,T2 Powersports,Out of scope,N/A,Data Integration,Data Integration,,Integration of Campaign system to CRRS,0,,,#N/A,#N/A,,,,,,,,,Req_1150,Req_1150,0,Data Integration
+"Req_1144
+PP_210",Req_1144_001,T2 Powersports,RFP,Priority 1,Knowledge Management,Einstein GenAI,,Knowledge articles to be displayed as per Case information,13,,,#N/A,#N/A,,,,,,,,,Req_1144,Req_1144,13,Einstein GenAI
+Req_174,Req_174_001,T2 Powersports,RFP,Priority 1,Reports & Dashboards,Reports & Dashboards,,Case search & reporting functionality,3,,,PR09918-335,PR09918-335,,,,,,,,,Req_174,Req_174,3,Reports & Dashboards
+Req_175,Req_175_001,T2 Powersports,RFP,Priority 1,Service Cloud Console / Page Layouts,Agent Console Call Flow,,Hyperlink for dealer website,5,,,PR09918-337,PR09918-337,,,,,,,,,Req_175,Req_175,5,Agent Console Call Flow
+"Req_1145
+PP_211",Req_1145_001,T2 Powersports,New,Priority 2,Service Cloud Console / Page Layouts,Agent Console Call Flow,,Screen flow for case creation,0,duplicate,,#N/A,#N/A,,,,,,,,,Req_1145,Req_1145,0,Agent Console Call Flow
+"Req_1146
+PP_212",Req_1146_001,T2 Powersports,New,Priority 2,Service Cloud Console / Page Layouts,Case Management,,Issue codes to be Auto-Centric,0,duplicate,,#N/A,#N/A,,,,,,,,,Req_1146,Req_1146,0,Case Management
+"Req_1159
+PP_225",Req_1159_001,T2 Powersports,New,Priority 2,Service Cloud Console / Page Layouts,Case Management,,Display Cases in reverse chronological order,2,,,#N/A,#N/A,,,,,,,,,Req_1159,Req_1159,2,Case Management
+"Req_1107
+PP_128",Req_1107_001,T2 Case Mgmt reimbursements,New,Priority 2,Case management,Case Management - Automation,,Automate Payment Notification Email to Customer,13,,,#N/A,#N/A,,,,,,,,,Req_1107,Req_1107,13,Case Management - Automation
+Req_109,Req_109_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case management,Agent Functions via Email Application,,Auto-send notification email for check approval,21,,,#N/A,#N/A,,,,,,,,,Req_109,Req_109,21,Agent Functions via Email Application
+"Req_069
+PP_125",Req_069_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management,Reimbursement Tool - Automation,,Automate Reimbursement Template and Verification for Case Managers,13,,,#N/A,#N/A,,,,,,,,,Req_069,Req_069,13,Reimbursement Tool - Automation
+Req_069,Req_069_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management,Reimbursement Tool - Automation,,Integrate Reimbursement/Approval Template in CRRS,13,,,#N/A,#N/A,,,,,,,,,Req_069,Req_069,13,Reimbursement Tool - Automation
+Req_107,Req_107_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management,Duplicate Management,,Streamlined document viewing and duplicate case management,13,,,#N/A,#N/A,,,,,,,,,Req_107,Req_107,13,Duplicate Management
+Req_107,Req_107_002,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management,Duplicate Management,,Streamlined document viewing and duplicate case management,13,,,#N/A,#N/A,,,,,,,,,Req_107,Req_107,13,Duplicate Management
+Req_110,Req_110_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management,Case Assignment,,Assign cases to Chino-approved queue,5,,,#N/A,#N/A,,,,,,,,,Req_110,Req_110,5,Case Assignment
+"Req_1105
+PP_126",Req_1105_001,T2 Case Mgmt reimbursements,New,Priority 2,Case Management - Automation,Data integration,,Simplify Claim Approval Process for Approver,13,,,PR09918-283,#N/A,,,,,,,,,Req_1105,Req_1105,13,Data integration
+"Req_1106
+PP_127",Req_1106_001,T2 Case Mgmt reimbursements,New,Priority 2,Case Management - Automation,Case Management - Automation,,Automate Claim Closure Upon Payment Data Receipt,13,,,#N/A,#N/A,,,,,,,,,Req_1106,Req_1106,13,Case Management - Automation
+Req_104,Req_104_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management - Automation,Reimbursement Tool - Automation,,Automatic addition of parts information and reimbursement pricing,13,,,#N/A,#N/A,,,,,,,,,Req_104,Req_104,13,Reimbursement Tool - Automation
+Req_106,Req_106_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management - Automation,Case Management - Automation,,Automated address verification and update prompts,8,,,#N/A,#N/A,,,,,,,,,Req_106,Req_106,8,Case Management - Automation
+Req_070,Req_070_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management - Automation,Case Management - Automation,,Automated coding and check request for Agents,13,,,#N/A,#N/A,,,,,,,,,Req_070,Req_070,13,Case Management - Automation
+Req_105,Req_105_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management - Process,Reimbursement Tool - Automation,,Edit and Correct Checks created by Other Agents,13,,,#N/A,#N/A,,,,,,,,,Req_105,Req_105,13,Reimbursement Tool - Automation
+Req_108 ,Req_108_001,T2 Case Mgmt reimbursements,RFP,Priority 1,Case Management - Process,Case Management,,Change Check Requester for Inactive agents,13,,,#N/A,#N/A,,,,,,,,,Req_108,Req_108,13,Case Management
+"Req_1108
+PP_129",Req_1108_001,T2 Case Mgmt reimbursements,New,Priority 2,Customer Self-service ,Customer Self-service ,,Enable Claim Submission via Customer Portal,8,,,#N/A,#N/A,,,,,,,,,Req_1108,Req_1108,8,Customer Self-service 
+"Req_1109
+PP_130",Req_1109_001,T2 Case Mgmt reimbursements,New,Priority 2,Customer Self-service ,Customer Self-service ,,Provide Claim Status Visibility on Customer Portal,8,,,#N/A,#N/A,,,,,,,,,Req_1109,Req_1109,8,Customer Self-service 
+"Req_1074
+PP_163",Req_1074_001,T2 Critical Backorders,New,Priority 2,Case management,Data Integration,,Backorder Follow-Up Tracking for Honda Dealers,13,,,#N/A,#N/A,,,,,,,,,Req_1074,Req_1074,13,Data Integration
+"Req_1075
+PP_164",Req_1075_001,T2 Critical Backorders,New,Priority 1,Case management,Case Management - Automation,,Case Lifecycle/Timeline Dashboard,13,,,#N/A,#N/A,,,,,,,,,Req_1075,Req_1075,13,Case Management - Automation
+Req_112,Req_112_001,T2 Critical Backorders,RFP,Priority 1,Case management,Case Management - Automation,,"Recurring Task Creation for Periodic Follow-ups in CRRS
+",13,,,#N/A,#N/A,,,,,,,,,Req_112,Req_112,13,Case Management - Automation
+Req_113,Req_113_001,T2 Critical Backorders,RFP,Priority 1,Case management,Case Management,,"Customizable Email Templates for Follow-up in CRRS
+",3,,,#N/A,#N/A,,,,,,,,,Req_113,Req_113,3,Case Management
+"Req_1072
+PP_160
+PP_161",Req_1072_001,T2 Critical Backorders,New,Priority 1,Case Management - Automation,Agent Console Call Flow,,Automated Case Verification for Part Validation,13,,,#N/A,#N/A,,,,,,,,,Req_1072,Req_1072,13,Agent Console Call Flow
+"Req_1073
+PP_162",Req_1073_001,T2 Critical Backorders,New,Priority 2,Case Management - Automation,Data Integration,,"Automated Backorder Release Update
+",13,,,#N/A,#N/A,,,,,,,,,Req_1073,Req_1073,13,Data Integration
+Req_111,Req_111_001,T2 Critical Backorders,RFP,Priority 1,Case Management - Automation,Case Management - Automation,,Automated Customer Response Notification for Contact Center Agents in CRRS,13,,,#N/A,#N/A,,,,,,,,,Req_111,Req_111,13,Case Management - Automation
+"Req_1069
+PP_157",Req_1069_001,T2 Critical Backorders,New,Priority 1,Case Management - Process,Search Functionality,,Probing Questions Optimization,21,,,#N/A,#N/A,,,,,,,,,Req_1069,Req_1069,21,Search Functionality
+Req_006,Req_006_001,T2 Critical Backorders,New,Priority 2,Case Management - Search,Case Management,,"Automated Service Bulletin Search Based on Make/Model in CRRS
+",8,,,#N/A,#N/A,,,,,,,,,Req_006,Req_006,8,Case Management
+"Req_1070
+PP_158",Req_1070_001,T2 Critical Backorders,New,Priority 1,Case Management - Search,Agent Console Call Flow,,Dealer Name Auto-Suggestion,13,,,#N/A,#N/A,,,,,,,,,Req_1070,Req_1070,13,Agent Console Call Flow
+"Req_1071
+PP_159",Req_1071_001,T2 Critical Backorders,New,Priority 1,Case Management - Search,Search Functionality,,Dealer Name Auto-Population in Probing Questions,13,,,#N/A,#N/A,,,,,,,,,Req_1071,Req_1071,13,Search Functionality
+"Req_1076
+PP_165",Req_1076_001,T2 Critical Backorders,RFP,Priority 1,Service Cloud Console / Page Layouts,Agent Console Call Flow,,"Improved ""Situation"" Dropdown in CRRS to Include ""Rental"" Option",1,,,#N/A,#N/A,,,,,,,,,Req_1076,Req_1076,1,Agent Console Call Flow
+Req_1036PP_168,Req_1036_001,T2 Mediation,New,Priority 2,Case management,Case Management - Automation,,Automate Email Drafting for Case Notifications and Input Requests,3,,,PR09918-348,#N/A,,,,,,,,,Req_1036,Req_1036,3,Case Management - Automation
+"Req_1037
+PP_169",Req_1037_001,T2 Mediation,New,Priority 2,Case management,Case Management - Automation,,Auto-Populate Email Recipients for DPSM & Honda Field Staff,8,,,PR09918-349,#N/A,,,,,,,,,Req_1037,Req_1037,8,Case Management - Automation
+"Req_114
+PP_170",Req_114_001,T2 Mediation,RFP,Priority 1,Case Management - Automation,Case Management - Automation,,Automated Task Creation for Specialists Based on Case Parameters,13,,,PR09918-350,#N/A,,,,,,,,,Req_114,Req_114,13,Case Management - Automation
+"Req_1038
+PP_171",Req_1038_001,T2 Mediation,New,Priority 2,Case Management - Automation,Mediation Tool Automation,,Automate Manufacturer Response Form (MRF) Generation,13,,,PR09918-355,#N/A,,,,,,,,,Req_1038,Req_1038,13,Mediation Tool Automation
+"Req_1039
+PP_173",Req_1039_001,T2 Mediation,New,Priority 4,Case Management - Automation,Case management - Automation,,Automate Issue Code Assignment in CRRS,8,,,PR09918-169,#N/A,,,,,,,,,Req_1039,Req_1039,8,Case management - Automation
+"Req_1035
+PP_167
+",Req_1035_001,T2 Mediation,New,Priority 4,Customer Self-service ,Customer Self-Service,,"Enable Private Parties to Create Cases via the Honda Portal
+",8,,,PR09918-351,#N/A,,,,,,,,,Req_1035,Req_1035,8,Customer Self-Service
+"Req_1034
+PP_166",Req_1034_001,T2 Mediation,New,Priority 4,Data Integration,Data Integration,,"Direct Access to Techline Team from CRRS
+",13,,,PR09918-353,#N/A,,,,,,,,,Req_1034,Req_1034,13,Data Integration
+"Req_1041
+PP_178",Req_1041_001,T2 Mediation,New,Priority 4,Data Integration,Data Integration,,Integration with Sedgewick for Vehicle Surrender Request,13,,,#N/A,#N/A,,,,,,,,,Req_1041,Req_1041,13,Data Integration
+"Req_118
+PP_172",Req_118_001,T2 Mediation,RFP,Priority 1,Service Cloud Console / Page Layouts,Case management - Automation,,Automate Disposition Timeline Generation in CRRS,13,,,PR09918-340,#N/A,,,,,,,,,Req_118,Req_118,13,Case management - Automation
+"Req_010
+PP_174",Req_010_001,T2 Mediation,RFP,Priority 1,Service Cloud Console / Page Layouts,Case Management,,Relocate Case History & Activity History for Better Navigation,3,,,PR09918-346,#N/A,,,,,,,,,Req_010,Req_010,3,Case Management
+"Req_1040
+PP_175",Req_1040_001,T2 Mediation,New,Priority 2,Service Cloud Console / Page Layouts,Case Management - Automation,,Visual Indication for 'Save' Button Press in Flash Message,5,,,PR09918-73,#N/A,,,,,,,,,Req_1040,Req_1040,5,Case Management - Automation
+"Req_009
+PP_176",Req_009_001,T2 Mediation,RFP,Priority 1,Service Cloud Console / Page Layouts,Vehicle Console,,Display Number of Open Cases for VIN in Case Information Section,5,,,PR09918-357,#N/A,,,,,,,,,Req_009,Req_009,5,Vehicle Console
+"Req_118
+PP_177",Req_118_002,T2 Mediation,RFP,Priority 1,Service Cloud Console / Page Layouts,Case management - Automation,,Auto-Populate Case Document with Data from Multiple Systems,21,,,PR09918-356,#N/A,,,,,,,,,Req_118,Req_118,21,Case management - Automation
+"Req_119
+PP_191",Req_119_001,T2 Mediation,RFP,Priority 1,Service Cloud Console / Page Layouts,Document Management,,Bulk File Upload Feature in CRRS,8,,,#N/A,#N/A,,,,,,,,,Req_119,Req_119,8,Document Management
+"Req_119
+PP_192",Req_119_002,T2 Mediation,RFP,Priority 1,Service Cloud Console / Page Layouts,Document Management,,"Increase Attachment File Size Limit to 3 GB in CRRS
+",8,,,PR09918-347,#N/A,,,,,,,,,Req_119,Req_119,8,Document Management
+Req_197,Req_197_001,T2 Mediation Check Request,RFP,Priority 1,Case management,Agent Functions via Email Application,,Contact Parties to Negotiate a Settlement,0,,,PR09918-241,PR09918-241,,,,,,,,,Req_197,Req_197,0,Agent Functions via Email Application
+Req_200,Req_200_001,T2 Mediation Check Request,RFP,Priority 1,Case management,Agent Functions via Email Application,,Ability for Agents to Notify Customers About Check Arrival in CRRS,0,,,PR09918-242,PR09918-242,,,,,,,,,Req_200,Req_200,0,Agent Functions via Email Application
+Req_203,Req_203_001,T2 Mediation Check Request,RFP,Priority 1,Case management,Mediation Tool Automation,,Ability for Agents to Mail a Check in CRRS,0,,,#N/A,PR09918-234,,,,,,,,,Req_203,Req_203,0,Mediation Tool Automation
+Req_205,Req_205_001,T2 Mediation Check Request,RFP,Priority 1,Case management,Mediation Tool Automation,,Admin Receives and Sends Check to Sedgwick in CRRS,0,,,#N/A,PR09918-235,,,,,,,,,Req_205,Req_205,0,Mediation Tool Automation
+"Req_1048
+PP_179",Req_1048_001,T2 Mediation Check Request,New,Priority 2,Automatic Case Routing and Tracking,Case Assignment,,Manual Case Assignment by Supervisor,13,,,PR09918-358,#N/A,,,,,,,,,Req_1048,Req_1048,0,Case Assignment
+Req_199,Req_199_001,T2 Mediation Check Request,RFP,Priority 1,Case Management,Case Management,,Ability for Agents to Create Mediation Actions for Cases in CRRS,0,,,PR09918-194,PR09918-194,,,,,,,,,Req_199,Req_199,0,Case Management
+Req_201,Req_201_001,T2 Mediation Check Request,RFP,Priority 1,Case Management,Case Management,,Ability for Agents to Update Case with Disposition and Outcome in CRRS,0,,,PR09918-199,PR09918-199,,,,,,,,,Req_201,Req_201,0,Case Management
+Req_204,Req_204_001,T2 Mediation Check Request,RFP,Priority 1,Case Management,Case Management,,Ability for Agents to Update the Issue in CRRS,0,,,PR09918-223,PR09918-223,,,,,,,,,Req_204,Req_204,0,Case Management
+Req_206,Req_206_001,T2 Mediation Check Request,RFP,Priority 1,Case Management,Mediation Tool Automation,,Ability for Agents to Cancel a Check Request in CRRS,0,,,#N/A,PR09918-236,,,,,,,,,Req_206,Req_206,0,Mediation Tool Automation
+Req_210,Req_210_001,T2 Mediation Check Request,RFP,Priority 1,Case Management,Case Management,,Ability for Agents to Prioritize Cases in CRRS,0,,,PR09918-225,PR09918-225,,,,,,,,,Req_210,Req_210,0,Case Management
+"Req_1049
+PP_181",Req_1049_001,T2 Mediation Check Request,New,Priority 2,Case Management - Automation,Search Functionality,,Default Dealer Lookup to 'All Fields',8,,,PR09918-245,#N/A,,,,,,,,,Req_1049,Req_1049,0,Search Functionality
+"Req_1050
+PP_182",Req_1050_001,T2 Mediation Check Request,New,Priority 2,Case Management - Automation,Vehicle Console,,Automate Dealer and Vehicle Details Population,13,,,PR09918-247,#N/A,,,,,,,,,Req_1050,Req_1050,0,Vehicle Console
+"Req_1054
+PP_186",Req_1054_001,T2 Mediation Check Request,New,Priority 2,Case Management - Automation,Mediation Tool Automation,,Automate Document Header Population for Direct Replacement,8,,,PR09918-365,#N/A,,,,,,,,,Req_1054,Req_1054,0,Mediation Tool Automation
+"Req_1055
+PP_187",Req_1055_001,T2 Mediation Check Request,New,Priority 2,Case Management - Automation,Mediation Tool Automation,,Combine Replacement Worksheet and Direct Replacement Instructions,21,,,#N/A,#N/A,,,,,,,,,Req_1055,Req_1055,0,Mediation Tool Automation
+"Req_1056
+PP_188",Req_1056_001,T2 Mediation Check Request,New,Priority 2,Case Management - Automation,Mediation Tool Automation,,"Automate Settlement Workbook Population for Non-Buyback Mediation
+",13,,,#N/A,#N/A,,,,,,,,,Req_1056,Req_1056,0,Mediation Tool Automation
+"Req_1057
+PP_189",Req_1057_001,T2 Mediation Check Request,New,Priority 2,Case Management - Automation,Mediation Tool Automation,,Automate Mediation Expense Capture,13,,,#N/A,#N/A,,,,,,,,,Req_1057,Req_1057,0,Mediation Tool Automation
+Req_198,Req_198_001,T2 Mediation Check Request,RFP,Priority 2,Case Management - Automation,Mediation Tool Automation,,Automation of Check Requests and Integration with SAP for Attorney Checks,0,,,#N/A,PR09918-233,,,,,,,,,Req_198,Req_198,0,Mediation Tool Automation
+"Req_1058
+PP_190",Req_1058_001,T2 Mediation Check Request,New,Priority 2,Case Management - Manage Cases,Mediation Tool Automation,,Vehicle Inventory Tracking for Buyback Vehicles,13,,,#N/A,#N/A,,,,,,,,,Req_1058,Req_1058,0,Mediation Tool Automation
+Req_207,Req_207_001,T2 Mediation Check Request,RFP,Priority 1,Case Management - Manage Cases,Mediation Tool Automation,,Ability for Agents to Track Car Inventory in CRRS,0,,,#N/A,PR09918-237,,,,,,,,,Req_207,Req_207,0,Mediation Tool Automation
+"Req_1053
+PP_185",Req_1053_001,T2 Mediation Check Request,New,Priority 2,Case Management - Process,Mediation Tool Automation,,Streamline Check Request Review Process,8,,,PR09918-364,#N/A,,,,,,,,,Req_1053,Req_1053,0,Mediation Tool Automation
+Req_209,Req_209_001,T2 Mediation Check Request,RFP,Priority 1,Case Management - Process,Mediation Tool Automation,,Ability for Non-Approver to Void/Reject a Check Request in CRRS,0,,,#N/A,PR09918-238,,,,,,,,,Req_209,Req_209,0,Mediation Tool Automation
+Req_246,Req_246_001,T2 Mediation Check Request,RFP,Priority 1,Reports & Dashboards,Reports & Dashboards,,"Ability for Supervisors to Report on Stopped Check Requests in CRRS
+",0,,,PR09918-243,PR09918-243,,,,,,,,,Req_246,Req_246,0,Reports & Dashboards
+Req_247,Req_247_001,T2 Mediation Check Request,RFP,Priority 1,Reports & Dashboards,Reports & Dashboards,,Ability for Supervisors to Report on Auction Sale Proceeds in CRRS in CRRS,0,,,PR09918-244,PR09918-244,,,,,,,,,Req_247,Req_247,0,Reports & Dashboards
+"Req_1051
+PP_183",Req_1051_001,T2 Mediation Check Request,New,Priority 2,Service Cloud Console / Page Layouts,Data Integration,,Ability for Specialists to Access External Websites via Links in CRRS,8,,,PR09918-118,#N/A,,,,,,,,,Req_1051,Req_1051,0,Data Integration
+"Req_1052
+PP_184",Req_1052_001,T2 Mediation Check Request,New,Priority 2,Service Cloud Console / Page Layouts,Mediation Tool Automation,,Automate Workbook Data Population for Check Requests,13,,,PR09918-364,#N/A,,,,,,,,,Req_1052,Req_1052,0,Mediation Tool Automation
+Req_208,Req_208_001,T2 Mediation Check Request,RFP,Priority 1,Service Cloud Console / Page Layouts,Case Management,,Ability for Agents to View Notes Section in the Mediation Tab in CRRS,0,,,PR09918-224,PR09918-224,,,,,,,,,Req_208,Req_208,0,Case Management
+"Req_1042
+PP_200",Req_1042_001,L1 Mediation,New,Priority 1,Automatic Case Routing and Tracking,Mediation Tool Automation,,Automate Case Routing from T1 Inbound to L1 Mediation Queue Based on Probing Questions (PQ),13,,,PR09918-336,#N/A,,,,,,,,,Req_1042,Req_1042,13,Mediation Tool Automation
+"Req_1043
+PP_201",Req_1043_001,L1 Mediation,New,Priority 1,Automatic Case Routing and Tracking,Case Management,,Enable AHM Mediation Business Admin to Assign Cases from L1 Mediation Queue,13,,,PR09918-344,#N/A,,,,,,,,,Req_1043,Req_1043,13,Case Management
+"Req_1044
+PP_202",Req_1044_001,L1 Mediation,New,Priority 2,Case Management - Automation,Mediation Tool Automation,,Automate L1 Assessment  Creation with a Pre-Populated Template,8,,,PR09918-338,#N/A,,,,,,,,,Req_1044,Req_1044,8,Mediation Tool Automation
+"Req_1045
+PP_203",Req_1045_001,L1 Mediation,New,Priority 2,,Mediation Tool Automation,,Automate Supervisor Review Process for L1 Assessments,8,,,PR09918-339,#N/A,,,,,,,,,Req_1045,Req_1045,8,Mediation Tool Automation
+"Req_1047
+PP_205",Req_1047_001,L1 Mediation,New,Priority 1,Case Management - cases,Case Management - Automation,,Enhance Identification and Prioritization of Time-Sensitive L1 Mediation Cases,13,,,PR09918-99,#N/A,,,,,,,,,Req_1047,Req_1047,13,Case Management - Automation
+"Req_1046
+PP_204",Req_1046_001,L1 Mediation,New,Priority 1,Case Management - Process,Case Management,,Enhance Case Notes to Display Probing Question Descriptions,21,,,PR09918-216,#N/A,,,,,,,,,Req_1046,Req_1046,21,Case Management
+"Req_1104
+PP_092",Req_1104_001,PCRM inbound SMS,New,Priority 1,Case Management - Automation,Chat Management - Automation,,Streamline Issue Disposition Process in Salesforce Lightning,3,,,PR09918-323,#N/A,,,,,,,,,Req_1104,Req_1104,0,Chat Management - Automation
+Req_250,Req_250_001,PCRM inbound SMS,RFP,Priority 1,Reports & Dashboards,Reports & Dashboards,,Ability to Generate PCRM Reports from Within CRRS,0,,,PR09918-333,PR09918-333,,,,,,,,,Req_250,Req_250,0,Reports & Dashboards
+Req_166,Req_166_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Search functionality,,Ability to View ‘Find Contact’ in a Pop-Out Window,0,,,PR09918-334,PR09918-334,,,,,,,,,Req_166,Req_166,0,Search functionality
+"Req_1100
+PP_087",Req_1100_001,PCRM inbound SMS,New,Priority 2,Social Customer Service,Chat Management - Automation,,Automate chat Closure Based on Pre-set Quiet Time,3,,,PR09918-318,#N/A,,,,,,,,,,Req_1100,0,Chat Management - Automation
+"Req_1101
+PP_088",Req_1101_001,PCRM inbound SMS,New,Priority 2,Social Customer Service,Chat Management - Automation,,Automated Agent Alert for Missed Appointments,5,,,PR09918-319,#N/A,,,,,,,,,,Req_1101,0,Chat Management - Automation
+"Req_1170
+PP_089",Req_1170_001,PCRM inbound SMS,New,Priority 4,Social Customer Service,Chat Management - Automation,,Automation of T2 aging cases,0,,,PR09918-320,#N/A,,,,,,,,,,Req_1170,0,Chat Management - Automation
+"Req_1102
+PP_090",Req_1102_001,PCRM inbound SMS,New,Priority 1,Social Customer Service,Chat Management,,Unified Contact and Chat Management in Salesforce AutoCloud,5,,,PR09918-310,#N/A,,,,,,,,,,Req_1102,0,Chat Management
+"Req_1103
+PP_091",Req_1103_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management - Automation,,Automate Case Issue Creation for Inbound SMS Conversations,0,,,PR09918-321,#N/A,,,,,,,,,,Req_1103,0,Chat Management - Automation
+"Req_156
+PP_093",Req_156_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management - Automation,,Automated Agent Alerts for One-Way SMS Responses,0,,,PR09918-324,PR09918-325,,,,,,,,,,Req_156,0,Chat Management - Automation
+"Req_155
+",Req_155_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management,,Agent Can View Incoming SMS Messages in Campaigns Live Messages Queue,0,,,PR09918-311,PR09918-311,,,,,,,,,,Req_155,0,Chat Management
+"Req_156
+",Req_156_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management - Automation,,System Automatically Tracks and Closes Cases for SMS Responses,0,,,PR09918-325,PR09918-325,,,,,,,,,,Req_156,0,Chat Management - Automation
+Req_157,Req_157_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management,,System Displays Chat Preview Before Agent Accepts Chat,0,,,PR09918-312,PR09918-312,,,,,,,,,,Req_157,0,Chat Management
+Req_158,Req_158_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management,,Agent Can Accept and Manage Multiple Incoming SMS Conversations,0,,,PR09918-313,PR09918-313,,,,,,,,,,Req_158,0,Chat Management
+Req_159,Req_159_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Einstein AI,,System Provides Script Prompts for Inbound SMS Conversations,0,,,PR09918-331,PR09918-331,,,,,,,,,,Req_159,0,Einstein AI
+Req_160,Req_160_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management,,Ability to View Chat Windows as a Pop-up or on a Separate Screen,0,,,PR09918-314,PR09918-314,,,,,,,,,,Req_160,0,Chat Management
+Req_161,Req_161_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management - Automation,,Ability to Chat with Customers via SMS Integration,0,,,PR09918-326,PR09918-326,,,,,,,,,,Req_161,0,Chat Management - Automation
+Req_162,Req_162_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management - Automation,,Automated Response Suggestions for SMS Conversations,0,,,PR09918-326,#N/A,,,,,,,,,,Req_162,0,Chat Management - Automation
+Req_163,Req_163_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management - Automation,,System Automatically Generates Case Information for General Inquiry SMS,0,,,PR09918-327,PR09918-327,,,,,,,,,,Req_163,0,Chat Management - Automation
+Req_164,Req_164_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management - Automation,,"System Automatically Generates Issue for Inbound SMS Cases
+",0,,,PR09918-328,PR09918-328,,,,,,,,,,Req_164,0,Chat Management - Automation
+Req_165,Req_165_001,PCRM inbound SMS,RFP,Priority 1,Social Customer Service,Chat Management,,"Ability to Interact with Customers and Record Case Information in the Same Interface
+",0,,,PR09918-315,PR09918-315,,,,,,,,,,Req_165,0,Chat Management
+"Req_1077
+PP_132",Req_1077_001,T2 Godwill process,New,Priority 1,Case management,Goodwill Claim Tool Automation,,Automate Goodwill Claim Evaluation Process with Pre-Populated Data and Calculation Tool in CRRS,8,,,PR09918-286,#N/A,,,,,,,,,,Req_1077,0,Goodwill Claim Tool Automation
+"Req_1078
+PP_133",Req_1078_001,T2 Godwill process,New,Priority 2,Case management,Goodwill Claim Tool Automation,,Automate Goodwill Claim Evaluation and Provide Loyalty Score displayed  in CRRS,3,,,PR09918-287,#N/A,,,,,,,,,,Req_1078,0,Goodwill Claim Tool Automation
+Req_125,Req_125_001,T2 Godwill process,RFP,Priority 1,Case management,Case Management,,Ability to Request Release Forms and Proof of Ownership through CRRS,0,,,PR09918-293,PR09918-293,,,,,,,,,,Req_125,0,Case Management
+"Req_1082
+PP_137",Req_1082_001,T2 Godwill process,New,Priority 2,Administration,Data Integration,,Automate Ingestion of AHM Field Directory into CRRS to Eliminate Manual Updates,13,,,PR09918-291,#N/A,,,,,,,,,,Req_1082,0,Data Integration
+"Req_1079
+PP_134",Req_1079_001,T2 Godwill process,New,Priority 1,Case Management,Agent Functions via Email application,,Integrate Email Communication in CRRS to Track Dealer Communications Regarding RO or Warranty Pricing,5,,,PR09918-288,#N/A,,,,,,,,,,Req_1079,0,Agent Functions via Email application
+"Req_1083
+PP_138",Req_1083_001,T2 Godwill process,New,Priority 1,Case Management,Agent Functions via Email application,,Integrate Email Communication in CRRS for Goodwill Claim Authorization,2,,,PR09918-292,#N/A,,,,,,,,,,Req_1083,0,Agent Functions via Email application
+Req_126,Req_126_001,T2 Godwill process,RFP,Priority 2,Case Management - Automation,Customer Self-Service,,Ability to Receive and View Release Forms and Proof of Ownership in CRRS,0,,,PR09918-294,PR09918-294,,,,,,,,,,Req_126,0,Customer Self-Service
+"Req_1080
+PP_135",Req_1080_001,T2 Godwill process,New,Priority 2,Data Integration,Data Integration,,Integrate Warranty Pricing Information into CRRS to Streamline Communication and Reduce Delays,21,,,PR09918-289,#N/A,,,,,,,,,,Req_1080,0,Data Integration
+"Req_1081
+PP_136",Req_1081_001,T2 Godwill process,New,Priority 2,Data Integration,Data Integration,,Integrate Dealer and Service Manager Information into CRRS from CICS and Other Systems,21,,,PR09918-290,#N/A,,,,,,,,,,Req_1081,0,Data Integration
+Req_127,Req_127_001,T2 Godwill process,RFP,Priority 1,Service Cloud Console / Page Layouts,Goodwill Claim Tool Automation,,Ability to Start and Track Mediation Workflow in CRRS,0,,,PR09918-295,PR09918-295,,,,,,,,,,Req_127,0,Goodwill Claim Tool Automation
+Req_127,Req_127_002,T2 Godwill process,RFP,Priority 1,Service Cloud Console / Page Layouts,Goodwill Claim Tool Automation,,Ability to Initiate and Manage Check Requests within CRRS,0,,,PR09918-296,PR09918-295,,,,,,,,,,Req_127,0,Goodwill Claim Tool Automation
+"Req_1163
+PP_150_A
+
+",Req_1163_001,T2Claims,New,Priority 1,Administration,Reimbursement Tool - Automation,,Update Approval Process for Claims ,5,,,#N/A,#N/A,,,,,,,,,,Req_1163,5,Reimbursement Tool - Automation
+Req_018,Req_018_001,T2Claims,RFP,Priority 2,Case Management,Case Management,,Updation of case stage,1,,,#N/A,#N/A,,,,,,,,,,Req_018,1,Case Management
+Req_019,Req_019_001,T2 Critical Backorders,RFP,Priority 1,Case Management,Case Assignment,,Mediation case escalation ,5,,,#N/A,#N/A,,,,,,,,,,Req_019,5,Case Assignment
+Req_039,Req_039_001,T2Claims,RFP,Priority 1,Case Management,Case Management - Automation,,Auto create- Issue from the Case,3,,,#N/A,#N/A,,,,,,,,,,Req_039,3,Case Management - Automation
+"Req_1164
+PP_151",Req_1164_001,T2Claims,New,Priority 1,Case Management,Case Management,,Update Fields as Read Only on Case,2,,,#N/A,#N/A,,,,,,,,,,Req_1164,2,Case Management
+"Req_1169
+PP_156",Req_1169_001,T2Claims,New,Priority 3,Case Management,Einstein GenAI ,,Generate call summary  based on the call transcription ,8,,,#N/A,#N/A,,,,,,,,,,Req_1169,8,Einstein GenAI 
+Req_016,Req_016_001,T2Claims,RFP,Priority 2,Case Management - Automation,Reimbursement Tool - Automation,,Automated determination of customer settlement,5,,,#N/A,#N/A,,,,,,,,,,Req_016,5,Reimbursement Tool - Automation
+"Req_1161
+PP_149",Req_1161_001,T2Claims,New,Priority 2,Case Management - Automation,Case Management - Automation,,Email to case functionality- for Claims email from customer,13,,,#N/A,#N/A,,,,,,,,,,Req_1161,13,Case Management - Automation
+Req_036,Req_036_001,T2Claims,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,,Templates / Next actions for closing case,5,,,#N/A,#N/A,,,,,,,,,,Req_036,5,Case Management
+Req_037,Req_037_001,T2Claims,RFP,Priority 1,Case Management - Call Wrap-up,Agent Functions via Email Application,,Auto-fill any known data for emails and letters for closing case,3,,,#N/A,#N/A,,,,,,,,,,Req_037,3,Agent Functions via Email Application
+Req_038,Req_038_001,T2Claims,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,,Add Case Notes to any non CAPPS /CAPPS Case,2,,,#N/A,#N/A,,,,,,,,,,Req_038,2,Case Management
+Req_015,Req_015_001,T2Claims,RFP,Priority 1,Case Management - Search,Search functionality,,Auto Search Duplicate Cases while creation of case ,3,,,#N/A,#N/A,,,,,,,,,,Req_015,3,Search functionality
+"Req_1162
+PP_150",Req_1162_001,T2Claims,New,Priority 1,Case Management- Automation,Reimbursement Tool - Automation,,Auto update the Check request field from case,5,,,#N/A,#N/A,,,,,,,,,,Req_1162,5,Reimbursement Tool - Automation
+"Req_1166
+PP_153",Req_1166_001,T2Claims,RFP,Priority 1,Case Management- Automation,Case Management,,Relevant Email template for Approved Claims,3,,,#N/A,#N/A,,,,,,,,,,Req_1166,3,Case Management
+"Req_1167
+PP_154",Req_1167_001,T2Claims,New,Priority 3,Case Management-Call Wrap-up,IVR Integration,,Update Incoming call types as per call notes,3,,,#N/A,#N/A,,,,,,,,,,Req_1167,3,IVR Integration
+"Req_1168
+PP_155",Req_1168_001,T2Claims,New,Priority 2,Customer Self-Service,Customer Self-Service,,Submission of Online claims with required documents,5,,,#N/A,#N/A,,,,,,,,,,Req_1168,5,Customer Self-Service
+Req_014,Req_014_001,T2Claims,RFP,Priority 2,Data Integration,Case Management,,Visual Indicator- Warranty Claims/Campaigns,3,,,#N/A,#N/A,,,,,,,,,,Req_014,3,Case Management
+"Req_1165
+PP_152",Req_1165_001,T2Claims,New,Priority 1,Data Integration,Reimbursement Tool - Automation,,Auto fill the Assessment information (case summary) and CheckReq summary into  Case Notes ,5,,,#N/A,#N/A,,,,,,,,,,Req_1165,5,Reimbursement Tool - Automation
+Req_017,Req_017_001,T2Claims,RFP,Priority 1,Service Cloud Console / Page Layouts,Case Management,,Display Case Lifecycle,2,,,#N/A,#N/A,,,,,,,,,,Req_017,2,Case Management
+Req_035,Req_035_001,T2Claims,RFP,Priority 1,Service Cloud Console / Page Layouts,Case Management,,Managing Issue codes,3,,,#N/A,#N/A,,,,,,,,,,Req_035,3,Case Management
+"Req_056
+Req_065
+PP_143","Req_056_001
+",T2 in car Technology,RFP,Priority 1,Case management,Case Management - Automation,,Enhance CRRS with Survey Functionality for Probing Questions,34,,,#N/A,#N/A,,,,,,,,,,Req_056,34,Case Management - Automation
+"Req_056
+PP_145",Req_056_002,T2 in car Technology,RFP,Priority 1,Case management,Case Management - Automation,,Automate Probing Questions (PQ) Workflow in AutoCloud,13,,,#N/A,#N/A,,,,,,,,,,Req_056,13,Case Management - Automation
+Req_056,"Req_056_001
+",T2 in car Technology,RFP,Priority 1,Case management,Case Management - Automation,,"Enable Agents to Send, Receive, and Manage Probing Questions (PQ) with Automatic Case Detection",34,,,#N/A,#N/A,,,,,,,,,,Req_056,34,Case Management - Automation
+Req_058,Req_058_001,T2 in car Technology,RFP,Priority 1,Automatic Case Routing and Tracking,Case Assignment,,Enable Group Leads and Agents to Assign Cases to an Agent Queue,2,,,#N/A,#N/A,,,,,,,,,,Req_058,2,Case Assignment
+Req_061,Req_061_001,T2 in car Technology,RFP,Priority 1,Case Management,Case Management,,"Enable Case Managers to Create an Issue from a Case
+",2,,,#N/A,#N/A,,,,,,,,,,Req_061,2,Case Management
+Req_062,Req_062_001,T2 in car Technology,RFP,Priority 1,Case Management,Case Management,,Enable Case Managers to Update Issue Disposition and Category,2,,,#N/A,#N/A,,,,,,,,,,Req_062,2,Case Management
+Req_064,Req_064_001,T2 in car Technology,RFP,Priority 1,Case Management,Case Assignment,,Enable Manager Approval and Supervisor Case Transfer in CRRS,3,,,#N/A,#N/A,,,,,,,,,,Req_064,3,Case Assignment
+Req_068,Req_068_001,T2 in car Technology,RFP,Priority 1,Case Management,Case Management,,Enable Case Managers to Complete Call Disposition,2,,,#N/A,#N/A,,,,,,,,,,Req_068,2,Case Management
+"Req_1084
+PP_140",Req_1084_001,T2 in car Technology,New,Priority 1,Case Management - Automation,Agent Console Call Flow,,Reduce Note-Capturing Time with Quick Links for High-Volume Case Types,5,,,#N/A,#N/A,,,,,,,,,,Req_1084,5,Agent Console Call Flow
+"Req_1085
+PP_141",Req_1085_001,T2 in car Technology,New,Priority 1,Case Management - Automation,Data Integration,,Display TCU Version on Vehicle Information Page and Case Queue,21,,,#N/A,#N/A,,,,,,,,,,Req_1085,21,Data Integration
+"Req_1086
+PP_146",Req_1086_001,T2 in car Technology,New,Priority 2,Case Management - Automation,Data Integration,,Automate VIN Pre-Population from CRRS to CCS Portal,5,,,#N/A,#N/A,,,,,,,,,,Req_1086,5,Data Integration
+Req_065,Req_065_001,T2 in car Technology,RFP,Priority 3,Case Management - Automation,Case Management - Automation,,"Automatically Upload Customer Responses for Probing Questions (PQs)
+",5,,,#N/A,#N/A,,,,,,,,,,Req_065,5,Case Management - Automation
+Req_067,Req_067_001,T2 in car Technology,RFP,Priority 1,Case Management - Automation,Duplicate Management,,Detect Duplicate Cases and Prevent Responses to Original Email,5,,,#N/A,#N/A,,,,,,,,,,Req_067,5,Duplicate Management
+"Req_059
+Req_060",Req_059_001,T2 in car Technology,RFP,Priority 1,Case Management - Call Wrap-up,Case Management,,Enable Agents to Log Calls and Post Call Comments in CRRS,2,,,#N/A,#N/A,,,,,,,,,,Req_059,2,Case Management
+"Req_063
+PP_142",Req_063_001,T2 in car Technology,RFP,Priority 2,Case Management - Process,Case Management - Automation,,"Mitigate Fraudulent Radio/Navi Code Cases in CRRS
+",21,,,#N/A,#N/A,,,,,,,,,,Req_063,21,Case Management - Automation
+Req_063,Req_063_001,T2 in car Technology,RFP,Priority 2,Case Management - Process,Case Management - Automation,,Simplify Radio Code Retrieval Process and Auto-Populate Fields Based on Vehicle Data,21,,,#N/A,#N/A,,,,,,,,,,Req_063,21,Case Management - Automation
+"Req_057
+PP_139",Req_057_001,T2 in car Technology,RFP,Priority 2,Data Integration,Data Integration,,Automate Case Status Updates via Salesforce-Jira Integration,21,,,#N/A,#N/A,,,,,,,,,,Req_057,21,Data Integration
+"Req_066
+PP_148",Req_066_001,T2 in car Technology,RFP,Priority 1,Data Integration,Case Management,,Enable Agents to Remotely View Customer Screens for Faster Issue Resolution,0,,,#N/A,#N/A,,,,,,,,,,Req_066,0,Case Management
+Req_057,Req_057_001,T2 in car Technology,RFP,Priority 2,Data Integration,Data Integration,,"Enable Agents to Create, View Status, and Close Jira Tickets from CRRS",21,,,#N/A,#N/A,,,,,,,,,,Req_057,21,Data Integration
+Req_066,Req_066_001,T2 in car Technology,RFP,Priority 1,Data Integration,Case Management,,Enable Agents to Have Visual Access to Customer's Screen for Remote Assistance,0,,,#N/A,#N/A,,,,,,,,,,Req_066,0,Case Management
+"Req_1087
+PP_147",Req_1087_001,T2 in car Technology,New,Priority 2,                            ---,Agent Console Call Flow,,Enable CRRS to Perform CCS Portal Actions,34,,,#N/A,#N/A,,,,,,,,,,Req_1087,34,Agent Console Call Flow
+"Req_1088
+PP_076",Req_1088_001,T2 Import-Export,New,Priority 4,Case Management,Einstein GenAI,,Implement Computer Vision for Automated Document Verification in T2 Import/Export Cases,21,,,#N/A,#N/A,,,,,,,,,,Req_1088,21,Einstein GenAI
+"Req_1173
+PP_077",Req_1173_001,T2 Import-Export,New,Priority 1,Case Management,Case Management - Automation,,Automate Generation of Recall Clearance and Compliance Letters for Vehicle Import/Export,8,,,#N/A,#N/A,,,,,,,,,,Req_1173,8,Case Management - Automation
+"Req_1090
+PP_079",Req_1090_001,T2 Import-Export,New,Priority 2,Case Management,Language Translation,,Integrate In-System Translation for Handling Non-English Documents in CRRS,21,,,#N/A,#N/A,,,,,,,,,,Req_1090,21,Language Translation
+"Req_1091
+PP_080",Req_1091_001,T2 Import-Export,New,Priority 1,Case Management,Agent Functions via Email Application,,Automate Email Response Handling in CRRS for T2 Import/Export Cases,8,,,#N/A,#N/A,,,,,,,,,,Req_1091,8,Agent Functions via Email Application
+"Req_1092
+PP_081",Req_1092_001,T2 Import-Export,New,Priority 2,Case Management,Case Management - Automation,,Implement Country-Specific Template Display and Alerts in CRRS for T2 Import/Export Cases,3,,,#N/A,#N/A,,,,,,,,,,Req_1092,3,Case Management - Automation
+"Req_1093
+PP_082",Req_1093_001,T2 Import-Export,New,Priority 2,Case Management,Case Management - Automation,,Implement Role-Based Template Access in CRRS for T2 Import/Export Cases,3,,,#N/A,#N/A,,,,,,,,,,Req_1093,3,Case Management - Automation
+"Req_1094
+PP_083",Req_1094_001,T2 Import-Export,New,Priority 1,Case Management,Duplicate Management ,,Streamline Case Management for New Contacts with Recall Questions Linked to Existing VINs,3,,,#N/A,#N/A,,,,,,,,,,Req_1094,3,Duplicate Management 
+"Req_1095
+PP_084",Req_1095_001,T2 Import-Export,New,Priority 3,Case Management,Data Integration,,Enable US Agents to Access Canadian Campaign Information Directly in CRRS,1,,,#N/A,#N/A,,,,,,,,,,Req_1095,1,Data Integration
+"Req_1096
+PP_085",Req_1096_001,T2 Import-Export,New,Priority 2,Case Management,Data Integration,,Implement Automated Currency Exchange Rate Retrieval in CRRS,13,,,#N/A,#N/A,,,,,,,,,,Req_1096,13,Data Integration
+"Req_1097
+PP_086",Req_1097_001,T2 Import-Export,New,Priority 3,Case Management,Data Integration,,Grant AHM US Agents Access to HDM Service Bulletins via CRRS,13,,,#N/A,#N/A,,,,,,,,,,Req_1097,13,Data Integration
+Req_027,Req_027_001,T2 Import-Export,RFP,Priority 1,Case Management,Agent Functions via Email Application,,Enhance email to customers,1,,,#N/A,#N/A,,,,,,,,,,Req_027,1,Agent Functions via Email Application
+"Req_1098
+PP_075",Req_1098_001,T2 Import-Export,Out of scope,Priority 1,Case Management,Data Integration,,Reimbursement of warranty claims ,13,,,#N/A,#N/A,,,,,,,,,,Req_1098,13,Data Integration
+"Req_1099
+PP_078",Req_1099_001,T2 Import-Export,New,Priority 1,Case Management,Agent Functions via Email Application,,Email functionality-  Recall Clearance and Compliance letters ,1,,,#N/A,#N/A,,,,,,,,,,Req_1099,1,Agent Functions via Email Application
+Req_245,Req_245_001,T2 Import-Export,RFP,Priority 1,Reports & Dashboards,Data Integration,,Enhance the report on VIN details,3,,,#N/A,#N/A,,,,,,,,,,Req_245,3,Data Integration
+"Req_1064
+PP_101",Req_1064_001,Knowledge & Training,New,Priority 1,Case Management - Automation,Agent Console Call Flow,,Customized Screen Flows for Specific Call Types,8,,,PR09918-40,#N/A,,,,,,,,,,Req_1064,8,Agent Console Call Flow
+"Req_1061
+PP_096",Req_1061_001,Knowledge & Training,New,Priority 4,Case Management - Automation,Case Management,,Improved automatic case summary with voice transcription,5,,,PR09918-33,#N/A,,,,,,,,,,Req_1061,5,Case Management
+"Req_135
+PP_112",Req_135_001,Knowledge & Training,RFP,Priority 1,Case Management - Automation,Knowledge Article Management - Automation,,"Auto-Generated Notifications and Flagging Important Chatter Posts
+",5,,,PR09918-97,#N/A,,,,,,,,,,Req_135,5,Knowledge Article Management - Automation
+Req_211,Req_211_001,Knowledge & Training,RFP,Priority 1,"Customer Self-service
+
+",Knowledge Article Management,,Customer Access to Self-Service Knowledge Articles,2,,,#N/A,PR09918-278,,,,,,,,,,Req_211,2,Knowledge Article Management
+Req_212,Req_212_001,Knowledge & Training,RFP,Priority 1,"Customer Self-service
+
+",Knowledge Article Management,,"Customer Feedback on Knowledge Articles in Self-Service
+",0,,,#N/A,PR09918-279,,,,,,,,,,Req_212,0,Knowledge Article Management
+"Req_1059
+PP_094",Req_1059_001,Knowledge & Training,New,Priority 3,Data Integration,Data Integration,,Integration with external Honda systems,21,,,PR09918-34,#N/A,,,,,,,,,,Req_1059,21,Data Integration
+"Req_1060
+PP_095",Req_1060_001,Knowledge & Training,New,Priority 1,Knowledge Management,Search Functionality,,Improved search Knowledge Artcles with Einstein Gen AI,34,,,PR09918-31,#N/A,,,,,,,,,,Req_1060,34,Search Functionality
+"Req_1062
+PP_097
+Req_1067
+PP_110",Req_1062_001,Knowledge & Training,New,Priority 4,Knowledge Management,Knowledge Article Management - Automation,,"Automated Scenario Suggestions for KA Authoring
+",5,,,#N/A,#N/A,,,,,,,,,,Req_1062,5,Knowledge Article Management - Automation
+"Req_1067
+PP_110",Req_1067_001,Knowledge & Training,New,Priority 2,Knowledge Management,Knowledge Article Management,,"Enable Contact Center Agents to Propose Knowledge Articles Based on Case Trends
+",0,duplicate,,#N/A,#N/A,,,,,,,,,,Req_1067,0,Knowledge Article Management
+"Req_129
+PP_098
+",Req_129_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management,,"Improved KA Authoring with Image and Text Support in from MS Word
+",3,,,#N/A,#N/A,,,,,,,,,,Req_129,3,Knowledge Article Management
+"Req_1063
+PP_099",Req_1063_001,Knowledge & Training,New,Priority 1,Knowledge Management,Knowledge Article Management,,"Enable Video Attachments in KA Authoring
+",2,,,#N/A,#N/A,,,,,,,,,,Req_1063,2,Knowledge Article Management
+"Req_131
+PP_100",Req_131_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management - Automation,,Streamlined KA multilevel approval process in CRRS,5,,,PR09918-38,PR09918-274,,,,,,,,,,Req_131,5,Knowledge Article Management - Automation
+"Req_132
+PP_102",Req_132_001,Knowledge & Training,RFP,Priority 3,Knowledge Management,Knowledge Article Management,,"Enable Direct Feedback on Knowledge Articles
+",3,,,PR09918-43,PR09918-48,,,,,,,,,,Req_132,3,Knowledge Article Management
+"Req_1068
+PP_103",Req_1068_001,Knowledge & Training,New,Priority 1,Knowledge Management,Knowledge Article Management,,"Removal of Character Limit for KA Authoring
+",2,,,#N/A,#N/A,,,,,,,,,,Req_1068,2,Knowledge Article Management
+"Req_132
+PP_106",Req_132_001,Knowledge & Training,RFP,Priority 3,Knowledge Management,Knowledge Article Management,,"Two-Way Feedback Process Between AHM Business and Quality Teams
+",3,,,PR09918-43,PR09918-48,,,,,,,,,,Req_132,3,Knowledge Article Management
+"Req_131
+PP_107",Req_131_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management - Automation,,"Enable Non-SFDC Users to Approve Knowledge Articles
+",5,,,PR09918-38,PR09918-274,,,,,,,,,,Req_131,5,Knowledge Article Management - Automation
+"Req_1065
+PP_108",Req_1065_001,Knowledge & Training,New,Priority 1,Knowledge Management,Agent Functions via Email Application,,"Enable Contact Center Agents to Email Public-Facing KA Links via CRRS
+",8,,,PR09918-45,#N/A,,,,,,,,,,Req_1065,8,Agent Functions via Email Application
+"Req_1066
+PP_109",Req_1066_001,Knowledge & Training,New,Priority 2,Knowledge Management,Data Integration,,"Automate Sending Updated Articles to MyGarage Team
+",21,,,PR09918-46,#N/A,,,,,,,,,,Req_1066,21,Data Integration
+"Req_212
+PP_111
+Req_132",Req_212_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management,,"Enable Contact Center Agents to Provide Direct Feedback on Knowledge Articles
+",0,,,#N/A,PR09918-279,,,,,,,,,,Req_212,0,Knowledge Article Management
+Req_132,Req_132_002,Knowledge & Training,RFP,Priority 3,Knowledge Management,Knowledge Article Management,,"Incorporate Feedback from Various Sources into Knowledge Articles
+",3,,,#N/A,PR09918-48,,,,,,,,,,Req_132,3,Knowledge Article Management
+"Req_134
+PP_111_A",Req_134_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management,,"Future Refresh of Tags and Categories in CRRS
+",5,,,#N/A,#N/A,,,,,,,,,,Req_134,5,Knowledge Article Management
+"Req_136
+PP_113",Req_136_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management - Automation,,Improve Knowledge Article Suggestions in CRRS,2,,,PR09918-18,#N/A,,,,,,,,,,Req_136,2,Knowledge Article Management - Automation
+"Req_1171
+PP_114",Req_1171_001,Knowledge & Training,New,Priority 1,Knowledge Management,Knowledge Article Management,,Pin favourite articles in CRRS,3,,,#N/A,#N/A,,,,,,,,,,Req_1171,3,Knowledge Article Management
+"Req_138
+PP_115",Req_138_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management,,"Restrict Direct Access to Certain Articles in Search
+",3,,,#N/A,#N/A,,,,,,,,,,Req_138,3,Knowledge Article Management
+Req_139,Req_139_002,Knowledge & Training,RFP,Priority 1,Knowledge Management,Case Management,,Attach Relevant Knowledge Articles to Cases and Enable Copy/Paste,2,,,PR09918-114,PR09918-114,,,,,,,,,,Req_139,2,Case Management
+"Req_129
+PP_116",Req_129_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management,,"Improved Knowledge Article Drafting and Attachments
+",3,,,#N/A,#N/A,,,,,,,,,,Req_129,3,Knowledge Article Management
+Req_130,Req_130_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management - Automation,,Knowledge Article Approval and Versioning,2,,,PR09918-273,PR09918-273,,,,,,,,,,Req_130,2,Knowledge Article Management - Automation
+Req_131,Req_131_002,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management - Automation,,"Enable Non-SFDC Users to Access and Provide Feedback on Knowledge Drafts
+",3,,,PR09918-274,PR09918-274,,,,,,,,,,Req_131,3,Knowledge Article Management - Automation
+Req_133,Req_133_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management,,"Knowledge Article Creation and Publishing
+",2,,,#N/A,PR09918-275,,,,,,,,,,Req_133,2,Knowledge Article Management
+Req_137,Req_137_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Search Functionality,,Enhanced Knowledge Article Search for Contact Center Agents,3,,,PR09918-276,PR09918-276,,,,,,,,,,Req_137,3,Search Functionality
+Req_140,Req_140_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management,,Providing Feedback and Comments on Published Knowledge Articles,3,,,#N/A,PR09918-277,,,,,,,,,,Req_140,3,Knowledge Article Management
+Req_239,Req_239_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Knowledge Article Management - Automation,,System Reminders for Article Updates and Keyword Search,5,,,PR09918-280,PR09918-280,,,,,,,,,,Req_239,5,Knowledge Article Management - Automation
+Req_240,Req_240_001,Knowledge & Training,RFP,Priority 1,Knowledge Management,Search Functionality,,Filtering and Searching Knowledge Articles in MyGarage,5,,,PR09918-281,PR09918-281,,,,,,,,,,Req_240,5,Search Functionality
+,,,,,,,,,,2700,,,,,,,,,,,,,,,
+,,,,,,,,,,23625,,,,,,,,,,,,,,,
+,,,,,,,,,,744187.5,,,,,,,,,,,,,,,
